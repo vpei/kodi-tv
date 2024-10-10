@@ -20,12 +20,12 @@
     "generate-admin-css": "npx tailwindcss build -i src/styles/global.css -o static/admin/global.css"
   },
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.549.0",
+    "@aws-sdk/client-dynamodb": "^3.622.0",
     "@aws-sdk/lib-dynamodb": "^3.540.0",
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
     "@stripe/react-stripe-js": "^2.6.0",
-    "@stripe/stripe-js": "^3.0.10",
+    "@stripe/stripe-js": "^3.4.1",
     "decap-cms-app": "^3.0.12",
     "gatsby": "^5.13.3",
     "gatsby-awesome-pagination": "^0.3.8",
@@ -50,7 +50,7 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-markdown": "^8.0.7",
-    "sass": "^1.72.0",
+    "sass": "^1.77.4",
     "slugify": "^1.6.6",
     "swiper": "^11.0.7",
     "util": "^0.12.5",
@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.13",
     "@types/react-helmet": "^6.1.11",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.3.1",
@@ -71,7 +71,7 @@
     "gatsby-plugin-postcss": "^6.13.1",
     "postcss": "^8.4.35",
     "prettier": "3.2.5",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.3",
     "typescript": "^5.4.2"
   }
 }

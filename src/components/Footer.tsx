@@ -5,6 +5,9 @@ import { SponsorFooterList } from "./SponsorList";
 
 function Footer() {
   const sponsors: Sponsor[] = Sponsors();
+  const orderedSponsors: Sponsor[] = sponsors
+    .filter(a => a.sponsor_type === "Financial")
+    .concat(sponsors.filter(a => a.sponsor_type === "Infrastructure"));
   let year = new Date().getFullYear();
 
   return (
@@ -81,6 +84,16 @@ function Footer() {
                         DMCA Policy
                       </Link>
                     </li>
+                    <li>
+                      <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://status.kodi.tv/"
+                        className="text-base text-gray-600 hover:text-gray-900"
+                      >
+                        Status
+                      </a>
+                    </li>
                   </ul>
                 </div>
                 <div className="mt-12 md:mt-0">
@@ -88,7 +101,7 @@ function Footer() {
                     Sponsors
                   </h3>
                   <ul className="mt-4 space-y-4">
-                    <SponsorFooterList sponsors={sponsors} />
+                    <SponsorFooterList sponsors={orderedSponsors} />
                   </ul>
                 </div>
               </div>
