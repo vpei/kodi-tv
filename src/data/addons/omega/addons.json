@@ -5522,7 +5522,7 @@
     "addonid": "game.libretro",
     "name": "Libretro Compatibility",
     "slug": "game.libretro",
-    "version": "21.0.7",
+    "version": "21.0.8",
     "authors": [
       {
         "name": "Team Kodi",
@@ -5532,34 +5532,34 @@
     ],
     "platforms": [
       {
+        "platform": "windows-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+windows-x86_64/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+windows-x86_64/game.libretro-21.0.8.zip"
+      },
+      {
         "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+android-armv7/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+android-armv7/game.libretro-21.0.7.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+android-armv7/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+android-armv7/game.libretro-21.0.8.zip"
       },
       {
         "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+osx-arm64/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+osx-arm64/game.libretro-21.0.7.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+osx-arm64/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+osx-arm64/game.libretro-21.0.8.zip"
       },
       {
         "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+osx-x86_64/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+osx-x86_64/game.libretro-21.0.7.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+osx-x86_64/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+osx-x86_64/game.libretro-21.0.8.zip"
       },
       {
         "platform": "windows-i686",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+windows-i686/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+windows-i686/game.libretro-21.0.7.zip"
-      },
-      {
-        "platform": "windows-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+windows-x86_64/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+windows-x86_64/game.libretro-21.0.7.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+windows-i686/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+windows-i686/game.libretro-21.0.8.zip"
       },
       {
         "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+android-aarch64/game.libretro-21.0.7.zip",
-        "statspath": "/addons/omega/game.libretro+android-aarch64/game.libretro-21.0.7.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro+android-aarch64/game.libretro-21.0.8.zip",
+        "statspath": "/addons/omega/game.libretro+android-aarch64/game.libretro-21.0.8.zip"
       }
     ],
     "categories": [
@@ -5581,9 +5581,10 @@
     ],
     "summary": "Libretro compatibility layer for Kodi's Game API",
     "description": "This add-on provides a wrapper for libretro cores, allowing them to be loaded as game add-ons.",
-    "size": "298KB",
-    "lastupdate": "2024-07-11T02:36:24.408Z",
-    "downloads": 167065,
+    "size": "303KB",
+    "lastupdate": "2025-01-05T02:55:22.524Z",
+    "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro/icon.png",
     "snippet": "Libretro compatibility layer for Kodi's Game API"
   },
@@ -7022,9 +7023,9 @@
   {
     "id": "game.libretro.beetle-wswan",
     "addonid": "game.libretro.beetle-wswan",
-    "name": "Bandai - WonderSwan/Color (Beetle Cygne)",
+    "name": "Bandai - WonderSwan/Color (Beetle Wonderswan)",
     "slug": "game.libretro.beetle-wswan",
-    "version": "0.9.35.49",
+    "version": "0.9.35.50",
     "authors": [
       {
         "name": "Dox",
@@ -7040,8 +7041,8 @@
     "platforms": [
       {
         "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.beetle-wswan+osx-arm64/game.libretro.beetle-wswan-0.9.35.49.zip",
-        "statspath": "/addons/omega/game.libretro.beetle-wswan+osx-arm64/game.libretro.beetle-wswan-0.9.35.49.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.beetle-wswan+osx-arm64/game.libretro.beetle-wswan-0.9.35.50.zip",
+        "statspath": "/addons/omega/game.libretro.beetle-wswan+osx-arm64/game.libretro.beetle-wswan-0.9.35.50.zip"
       },
       {
         "platform": "windows-x86_64",
@@ -7103,10 +7104,11 @@
     "summary": "Bandai - WonderSwan/Color (Beetle Cygne) v1.23.0.0",
     "description": "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.\n\nSupported files: .ws, .wsc, .pc2",
     "size": "1347KB",
-    "lastupdate": "2024-12-16T03:07:03.310Z",
-    "downloads": 3609,
+    "lastupdate": "2025-01-05T02:55:22.524Z",
+    "downloads": 3590,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.beetle-wswan/resources/icon.png",
-    "snippet": "Bandai - WonderSwan/Color (Beetle Cygne)"
+    "snippet": "Bandai - WonderSwan/Color (Beetle Wonderswan)"
   },
   {
     "id": "game.libretro.bk",
@@ -8926,7 +8928,7 @@
     "nochangelog": "true",
     "size": "6113KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 36036,
+    "downloads": 36346,
     "icons": [
       {
         "remotepath": "",
@@ -8935,7 +8937,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-    "prevyeardl": 35726
+    "prevyeardl": 36036
   },
   {
     "id": "game.libretro.dosbox",
@@ -10484,7 +10486,7 @@
     "addonid": "game.libretro.gearcoleco",
     "name": "Coleco - ColecoVision (Gearcoleco)",
     "slug": "game.libretro.gearcoleco",
-    "version": "1.3.0.26",
+    "version": "1.3.0.27",
     "authors": [
       {
         "name": "Ignacio Sanchez",
@@ -10494,34 +10496,34 @@
     ],
     "platforms": [
       {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+osx-x86_64/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+osx-x86_64/game.libretro.gearcoleco-1.3.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+osx-arm64/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+osx-arm64/game.libretro.gearcoleco-1.3.0.26.zip"
+        "platform": "windows-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+windows-x86_64/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+windows-x86_64/game.libretro.gearcoleco-1.3.0.27.zip"
       },
       {
         "platform": "windows-i686",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+windows-i686/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+windows-i686/game.libretro.gearcoleco-1.3.0.26.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+windows-i686/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+windows-i686/game.libretro.gearcoleco-1.3.0.27.zip"
       },
       {
-        "platform": "windows-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+windows-x86_64/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+windows-x86_64/game.libretro.gearcoleco-1.3.0.26.zip"
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+osx-x86_64/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+osx-x86_64/game.libretro.gearcoleco-1.3.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+osx-arm64/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+osx-arm64/game.libretro.gearcoleco-1.3.0.27.zip"
       },
       {
         "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+android-aarch64/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+android-aarch64/game.libretro.gearcoleco-1.3.0.26.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+android-aarch64/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+android-aarch64/game.libretro.gearcoleco-1.3.0.27.zip"
       },
       {
         "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+android-armv7/game.libretro.gearcoleco-1.3.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.gearcoleco+android-armv7/game.libretro.gearcoleco-1.3.0.26.zip"
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.gearcoleco+android-armv7/game.libretro.gearcoleco-1.3.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.gearcoleco+android-armv7/game.libretro.gearcoleco-1.3.0.27.zip"
       }
     ],
     "categories": [
@@ -10543,9 +10545,10 @@
     ],
     "summary": "Coleco - ColecoVision (Gearcoleco)",
     "description": "Gearcoleco is an open source, cross-platform, ColecoVision emulator.",
-    "size": "423KB",
-    "lastupdate": "2024-12-31T02:49:00.927Z",
-    "downloads": 43,
+    "size": "428KB",
+    "lastupdate": "2025-01-05T02:55:22.524Z",
+    "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.gearcoleco/resources/icon.png",
     "snippet": "Coleco - ColecoVision (Gearcoleco)"
   },
@@ -12511,10 +12514,10 @@
     "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
     "size": "3768KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 1238,
+    "downloads": 1427,
     "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
     "snippet": "Mr.Boom (Bomberman)",
-    "prevyeardl": 1049
+    "prevyeardl": 1238
   },
   {
     "id": "game.libretro.mu",
@@ -14065,10 +14068,10 @@
     "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
     "size": "1154KB",
     "lastupdate": "2024-12-27T02:49:49.502Z",
-    "downloads": 1775,
+    "downloads": 2018,
     "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
     "snippet": "Sharp - X68000 (PX68k)",
-    "prevyeardl": 1532
+    "prevyeardl": 1775
   },
   {
     "id": "game.libretro.quasi88",
@@ -15143,10 +15146,10 @@
     "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
     "size": "1903KB",
     "lastupdate": "2024-12-15T03:09:15.479Z",
-    "downloads": 23348,
+    "downloads": 24852,
     "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
     "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-    "prevyeardl": 21844
+    "prevyeardl": 23348
   },
   {
     "id": "game.libretro.stella",
@@ -16025,10 +16028,10 @@
     "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
     "size": "1074KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 777,
+    "downloads": 893,
     "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
     "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-    "prevyeardl": 661
+    "prevyeardl": 777
   },
   {
     "id": "game.libretro.vecx",
@@ -18201,7 +18204,7 @@
     "nochangelog": "true",
     "size": "2KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 25519,
+    "downloads": 25734,
     "icons": [
       {
         "remotepath": "",
@@ -18209,7 +18212,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 25304
+    "prevyeardl": 25519
   },
   {
     "id": "metadata.common.musicbrainz.org",
@@ -18779,7 +18782,6 @@
     "size": "164KB",
     "lastupdate": "2025-01-04T02:47:23.994Z",
     "downloads": 0,
-    "prevyeardl": 0,
     "icon": "/images/addons/omega/metadata.themoviedb.org.python/resources/icon.png",
     "snippet": "Python TMDB Movie Scraper"
   },
@@ -18825,10 +18827,10 @@
     "lifecyclestate": "Deprecated API",
     "size": "83KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 5244259,
+    "downloads": 5284751,
     "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 5203767
+    "prevyeardl": 5244259
   },
   {
     "id": "metadata.tvmaze",
@@ -19064,10 +19066,10 @@
     "news": "- 1.1.6: Use artworks data for season posters instead of season image",
     "size": "565KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 10946621,
+    "downloads": 11025305,
     "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 10867937
+    "prevyeardl": 10946621
   },
   {
     "id": "metadata.universal",
@@ -25388,10 +25390,10 @@
     ],
     "size": "549KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 9340210,
+    "downloads": 9403809,
     "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
     "snippet": "IMDb Trailers video add-on",
-    "prevyeardl": 9276611
+    "prevyeardl": 9340210
   },
   {
     "id": "plugin.video.invidious",
@@ -34878,9 +34880,9 @@
     ],
     "size": "2130KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1764075,
+    "downloads": 1779248,
     "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-    "prevyeardl": 1748902
+    "prevyeardl": 1764075
   },
   {
     "id": "resource.images.moviecountryicons.flags",
@@ -35480,7 +35482,7 @@
     "nofanart": "true",
     "size": "27316KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1645676,
+    "downloads": 1660039,
     "icons": [
       {
         "remotepath": "",
@@ -35488,7 +35490,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 1631313
+    "prevyeardl": 1645676
   },
   {
     "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -35528,7 +35530,7 @@
     "nofanart": "true",
     "size": "44060KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1999430,
+    "downloads": 2016239,
     "icons": [
       {
         "remotepath": "",
@@ -35536,7 +35538,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 1982621
+    "prevyeardl": 1999430
   },
   {
     "id": "resource.images.moviegenreicons.grey",
@@ -35949,7 +35951,7 @@
     "nofanart": "true",
     "size": "49696KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2852990,
+    "downloads": 2877660,
     "icons": [
       {
         "remotepath": "",
@@ -35957,7 +35959,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2828320
+    "prevyeardl": 2852990
   },
   {
     "id": "resource.images.recordlabels.white",
@@ -37612,7 +37614,7 @@
     "nofanart": "true",
     "size": "94KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2178085,
+    "downloads": 2204437,
     "icons": [
       {
         "remotepath": "",
@@ -37620,7 +37622,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2151733
+    "prevyeardl": 2178085
   },
   {
     "id": "resource.images.weathericons.outline-hd",
@@ -41395,9 +41397,9 @@
     ],
     "size": "417KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 886241,
+    "downloads": 892512,
     "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-    "prevyeardl": 879970
+    "prevyeardl": 886241
   },
   {
     "id": "resource.uisounds.embuary",
@@ -41446,10 +41448,10 @@
     ],
     "size": "373KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1662293,
+    "downloads": 1674217,
     "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
     "snippet": "Embuary Sounds",
-    "prevyeardl": 1650369
+    "prevyeardl": 1662293
   },
   {
     "id": "resource.uisounds.fromashes",
@@ -47956,10 +47958,10 @@
     ],
     "size": "15KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 213153,
+    "downloads": 214499,
     "icon": "/images/addons/omega/script.module.cachetools/icon.png",
     "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-    "prevyeardl": 211807
+    "prevyeardl": 213153
   },
   {
     "id": "script.module.certifi",
@@ -48626,10 +48628,10 @@
     ],
     "size": "181KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 34342,
+    "downloads": 34726,
     "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
     "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-    "prevyeardl": 33958
+    "prevyeardl": 34342
   },
   {
     "id": "script.module.google-auth-oauthlib",
@@ -50310,7 +50312,7 @@
     "nochangelog": "true",
     "size": "80KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 30621,
+    "downloads": 30905,
     "icons": [
       {
         "remotepath": "",
@@ -50319,7 +50321,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-    "prevyeardl": 30337
+    "prevyeardl": 30621
   },
   {
     "id": "script.module.pyasn1_modules",
@@ -50362,10 +50364,10 @@
     ],
     "size": "186KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 34259,
+    "downloads": 34642,
     "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
     "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-    "prevyeardl": 33876
+    "prevyeardl": 34259
   },
   {
     "id": "script.module.pyhdhr",
@@ -52080,10 +52082,10 @@
     ],
     "size": "55KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 53711,
+    "downloads": 54128,
     "icon": "/images/addons/omega/script.module.twitter/icon.png",
     "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-    "prevyeardl": 53294
+    "prevyeardl": 53711
   },
   {
     "id": "script.module.typing_extensions",
@@ -55322,10 +55324,10 @@
     ],
     "size": "308KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 336297,
+    "downloads": 338592,
     "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
     "snippet": "NFL Game Pass",
-    "prevyeardl": 334002
+    "prevyeardl": 336297
   },
   {
     "id": "script.video.randomtv",
@@ -60072,7 +60074,7 @@
     "nochangelog": "true",
     "size": "1314KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 33773,
+    "downloads": 34037,
     "icons": [
       {
         "remotepath": "",
@@ -60082,7 +60084,7 @@
     "icon": "/images/default-addon.webp",
     "description": "Vortex Visualization from XBOX package",
     "snippet": "Vortex Visualization from XBOX package",
-    "prevyeardl": 33509
+    "prevyeardl": 33773
   },
   {
     "id": "visualization.waveform",
