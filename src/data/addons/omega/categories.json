@@ -8802,7 +8802,6 @@
         "size": "1347KB",
         "lastupdate": "2025-01-05T02:55:22.524Z",
         "downloads": 3590,
-        "prevyeardl": 0,
         "icon": "/images/addons/omega/game.libretro.beetle-wswan/resources/icon.png",
         "snippet": "Bandai - WonderSwan/Color (Beetle Wonderswan)"
       },
@@ -9103,7 +9102,6 @@
         "size": "428KB",
         "lastupdate": "2025-01-05T02:55:22.524Z",
         "downloads": 0,
-        "prevyeardl": 0,
         "icon": "/images/addons/omega/game.libretro.gearcoleco/resources/icon.png",
         "snippet": "Coleco - ColecoVision (Gearcoleco)"
       },
@@ -11160,7 +11158,6 @@
         "size": "303KB",
         "lastupdate": "2025-01-05T02:55:22.524Z",
         "downloads": 0,
-        "prevyeardl": 0,
         "icon": "/images/addons/omega/game.libretro/icon.png",
         "snippet": "Libretro compatibility layer for Kodi's Game API"
       },
@@ -11753,10 +11750,10 @@
         "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
         "size": "3768KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 1427,
+        "downloads": 1616,
         "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
         "snippet": "Mr.Boom (Bomberman)",
-        "prevyeardl": 1238
+        "prevyeardl": 1427
       },
       {
         "id": "game.libretro.bluemsx",
@@ -13358,10 +13355,10 @@
         "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
         "size": "1074KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 893,
+        "downloads": 1009,
         "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
         "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-        "prevyeardl": 777
+        "prevyeardl": 893
       },
       {
         "id": "game.libretro.dolphin",
@@ -13401,7 +13398,7 @@
         "nochangelog": "true",
         "size": "6113KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 36346,
+        "downloads": 36656,
         "icons": [
           {
             "remotepath": "",
@@ -13410,7 +13407,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-        "prevyeardl": 36036
+        "prevyeardl": 36346
       },
       {
         "id": "game.libretro.bnes",
@@ -15214,10 +15211,10 @@
         "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
         "size": "1903KB",
         "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 24852,
+        "downloads": 26356,
         "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
         "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-        "prevyeardl": 23348
+        "prevyeardl": 24852
       },
       {
         "id": "game.libretro.snes9x",
@@ -15904,38 +15901,38 @@
         "addonid": "game.libretro.xrick",
         "name": "Rick Dangerous (XRick)",
         "slug": "game.libretro.xrick",
-        "version": "0.21212.0.42",
+        "version": "0.21212.0.43",
         "authors": [],
         "platforms": [
           {
+            "platform": "windows-x86_64",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+windows-x86_64/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+windows-x86_64/game.libretro.xrick-0.21212.0.43.zip"
+          },
+          {
             "platform": "osx-x86_64",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+osx-x86_64/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+osx-x86_64/game.libretro.xrick-0.21212.0.42.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+osx-x86_64/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+osx-x86_64/game.libretro.xrick-0.21212.0.43.zip"
           },
           {
             "platform": "windows-i686",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+windows-i686/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+windows-i686/game.libretro.xrick-0.21212.0.42.zip"
-          },
-          {
-            "platform": "windows-x86_64",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+windows-x86_64/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+windows-x86_64/game.libretro.xrick-0.21212.0.42.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+windows-i686/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+windows-i686/game.libretro.xrick-0.21212.0.43.zip"
           },
           {
             "platform": "android-armv7",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+android-armv7/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+android-armv7/game.libretro.xrick-0.21212.0.42.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+android-armv7/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+android-armv7/game.libretro.xrick-0.21212.0.43.zip"
           },
           {
             "platform": "osx-arm64",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+osx-arm64/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+osx-arm64/game.libretro.xrick-0.21212.0.42.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+osx-arm64/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+osx-arm64/game.libretro.xrick-0.21212.0.43.zip"
           },
           {
             "platform": "android-aarch64",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+android-aarch64/game.libretro.xrick-0.21212.0.42.zip",
-            "statspath": "/addons/omega/game.libretro.xrick+android-aarch64/game.libretro.xrick-0.21212.0.42.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.xrick+android-aarch64/game.libretro.xrick-0.21212.0.43.zip",
+            "statspath": "/addons/omega/game.libretro.xrick+android-aarch64/game.libretro.xrick-0.21212.0.43.zip"
           }
         ],
         "categories": [
@@ -15969,9 +15966,10 @@
         ],
         "summary": "Rick Dangerous (XRick)",
         "description": "XRick is an open source implementation of the legendary game Rick Dangerous.",
-        "size": "2337KB",
-        "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 1245,
+        "size": "2341KB",
+        "lastupdate": "2025-01-06T02:54:44.480Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/game.libretro.xrick/resources/icon.png",
         "snippet": "Rick Dangerous (XRick)"
       },
@@ -16936,10 +16934,10 @@
         "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
         "size": "1154KB",
         "lastupdate": "2024-12-27T02:49:49.502Z",
-        "downloads": 2018,
+        "downloads": 2261,
         "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
         "snippet": "Sharp - X68000 (PX68k)",
-        "prevyeardl": 1775
+        "prevyeardl": 2018
       },
       {
         "id": "game.libretro.xmil",
@@ -18787,9 +18785,9 @@
         ],
         "size": "417KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 892512,
+        "downloads": 898783,
         "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-        "prevyeardl": 886241
+        "prevyeardl": 892512
       },
       {
         "id": "resource.uisounds.embuary",
@@ -18838,10 +18836,10 @@
         ],
         "size": "373KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1674217,
+        "downloads": 1686141,
         "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
         "snippet": "Embuary Sounds",
-        "prevyeardl": 1662293
+        "prevyeardl": 1674217
       },
       {
         "id": "resource.uisounds.ftv",
@@ -19777,9 +19775,9 @@
         ],
         "size": "2130KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1779248,
+        "downloads": 1794421,
         "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-        "prevyeardl": 1764075
+        "prevyeardl": 1779248
       },
       {
         "id": "resource.images.aspectratio.color",
@@ -20421,7 +20419,7 @@
         "nofanart": "true",
         "size": "27316KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1660039,
+        "downloads": 1674402,
         "icons": [
           {
             "remotepath": "",
@@ -20429,7 +20427,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1645676
+        "prevyeardl": 1660039
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -20469,7 +20467,7 @@
         "nofanart": "true",
         "size": "44060KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2016239,
+        "downloads": 2033048,
         "icons": [
           {
             "remotepath": "",
@@ -20477,7 +20475,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1999430
+        "prevyeardl": 2016239
       },
       {
         "id": "resource.images.moviegenreicons.grey",
@@ -20890,7 +20888,7 @@
         "nofanart": "true",
         "size": "49696KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2877660,
+        "downloads": 2902330,
         "icons": [
           {
             "remotepath": "",
@@ -20898,7 +20896,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2852990
+        "prevyeardl": 2877660
       },
       {
         "id": "resource.images.recordlabels.white",
@@ -22599,7 +22597,7 @@
         "nofanart": "true",
         "size": "94KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2204437,
+        "downloads": 2230789,
         "icons": [
           {
             "remotepath": "",
@@ -22607,7 +22605,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2178085
+        "prevyeardl": 2204437
       },
       {
         "id": "resource.images.weathericons.outline-hd",
@@ -35626,10 +35624,10 @@
         ],
         "size": "549KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 9403809,
+        "downloads": 9467408,
         "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
         "snippet": "IMDb Trailers video add-on",
-        "prevyeardl": 9340210
+        "prevyeardl": 9403809
       },
       {
         "id": "plugin.audio.indigitube",
@@ -47338,10 +47336,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 338592,
+        "downloads": 340887,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 336297
+        "prevyeardl": 338592
       },
       {
         "id": "service.partymode.autostart",
@@ -52005,10 +52003,10 @@
         ],
         "size": "15KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 214499,
+        "downloads": 215845,
         "icon": "/images/addons/omega/script.module.cachetools/icon.png",
         "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-        "prevyeardl": 213153
+        "prevyeardl": 214499
       },
       {
         "id": "script.module.certifi",
@@ -52684,10 +52682,10 @@
         ],
         "size": "181KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 34726,
+        "downloads": 35110,
         "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
         "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-        "prevyeardl": 34342
+        "prevyeardl": 34726
       },
       {
         "id": "script.module.google-auth-oauthlib",
@@ -54568,7 +54566,7 @@
         "nochangelog": "true",
         "size": "80KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 30905,
+        "downloads": 31189,
         "icons": [
           {
             "remotepath": "",
@@ -54577,7 +54575,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-        "prevyeardl": 30621
+        "prevyeardl": 30905
       },
       {
         "id": "script.module.pyasn1_modules",
@@ -54620,10 +54618,10 @@
         ],
         "size": "186KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 34642,
+        "downloads": 35025,
         "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
         "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-        "prevyeardl": 34259
+        "prevyeardl": 34642
       },
       {
         "id": "script.module.pyhdhr",
@@ -56478,10 +56476,10 @@
         ],
         "size": "55KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 54128,
+        "downloads": 54545,
         "icon": "/images/addons/omega/script.module.twitter/icon.png",
         "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-        "prevyeardl": 53711
+        "prevyeardl": 54128
       },
       {
         "id": "script.module.typing_extensions",
@@ -61161,7 +61159,7 @@
         "nochangelog": "true",
         "size": "2KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 25734,
+        "downloads": 25949,
         "icons": [
           {
             "remotepath": "",
@@ -61169,7 +61167,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 25519
+        "prevyeardl": 25734
       },
       {
         "id": "script.module.dropbox_auth",
@@ -70696,10 +70694,10 @@
         "lifecyclestate": "Deprecated API",
         "size": "83KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 5284751,
+        "downloads": 5325243,
         "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 5244259
+        "prevyeardl": 5284751
       },
       {
         "id": "metadata.tvshows.thetvdb.com.v4.python",
@@ -70757,10 +70755,10 @@
         "news": "- 1.1.6: Use artworks data for season posters instead of season image",
         "size": "565KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 11025305,
+        "downloads": 11103989,
         "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 10946621
+        "prevyeardl": 11025305
       },
       {
         "id": "metadata.tvshows.themoviedb.org.python",
@@ -75487,10 +75485,10 @@
         ],
         "size": "549KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 9403809,
+        "downloads": 9467408,
         "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
         "snippet": "IMDb Trailers video add-on",
-        "prevyeardl": 9340210
+        "prevyeardl": 9403809
       },
       {
         "id": "plugin.video.archive.org",
@@ -77509,10 +77507,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 338592,
+        "downloads": 340887,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 336297
+        "prevyeardl": 338592
       },
       {
         "id": "plugin.video.nhklive",
@@ -84382,7 +84380,7 @@
         "nochangelog": "true",
         "size": "1314KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 34037,
+        "downloads": 34301,
         "icons": [
           {
             "remotepath": "",
@@ -84392,7 +84390,7 @@
         "icon": "/images/default-addon.webp",
         "description": "Vortex Visualization from XBOX package",
         "snippet": "Vortex Visualization from XBOX package",
-        "prevyeardl": 33773
+        "prevyeardl": 34037
       },
       {
         "id": "visualization.waveform",
