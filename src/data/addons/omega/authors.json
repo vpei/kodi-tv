@@ -2337,10 +2337,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -4686,10 +4686,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -5375,10 +5375,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -8692,7 +8692,7 @@
         "nofanart": "true",
         "size": "27316KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1731854,
+        "downloads": 1746217,
         "icons": [
           {
             "remotepath": "",
@@ -8700,7 +8700,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1717491
+        "prevyeardl": 1731854
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -8740,7 +8740,7 @@
         "nofanart": "true",
         "size": "44060KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2100284,
+        "downloads": 2117093,
         "icons": [
           {
             "remotepath": "",
@@ -8748,7 +8748,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2083475
+        "prevyeardl": 2100284
       }
     ],
     "totaladdons": 3
@@ -13692,10 +13692,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -14689,10 +14689,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -15679,10 +15679,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 2
@@ -17037,10 +17037,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -19036,10 +19036,10 @@
         "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
         "size": "1074KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 1473,
+        "downloads": 1589,
         "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
         "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-        "prevyeardl": 1357
+        "prevyeardl": 1473
       }
     ],
     "totaladdons": 3
@@ -21993,10 +21993,10 @@
         ],
         "size": "549KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 9721804,
+        "downloads": 9785403,
         "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
         "snippet": "IMDb Trailers video add-on",
-        "prevyeardl": 9658205
+        "prevyeardl": 9721804
       },
       {
         "id": "plugin.video.archive.org",
@@ -23724,10 +23724,10 @@
         "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
         "size": "1154KB",
         "lastupdate": "2024-12-27T02:49:49.502Z",
-        "downloads": 3233,
+        "downloads": 3476,
         "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
         "snippet": "Sharp - X68000 (PX68k)",
-        "prevyeardl": 2990
+        "prevyeardl": 3233
       }
     ],
     "totaladdons": 1
@@ -25378,7 +25378,7 @@
         "nochangelog": "true",
         "size": "80KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 32325,
+        "downloads": 32609,
         "icons": [
           {
             "remotepath": "",
@@ -25387,7 +25387,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-        "prevyeardl": 32041
+        "prevyeardl": 32325
       },
       {
         "id": "script.module.pyasn1_modules",
@@ -25430,10 +25430,10 @@
         ],
         "size": "186KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 36557,
+        "downloads": 36940,
         "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
         "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-        "prevyeardl": 36174
+        "prevyeardl": 36557
       }
     ],
     "totaladdons": 2
@@ -30476,10 +30476,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 350067,
+        "downloads": 352362,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 347772
+        "prevyeardl": 350067
       }
     ],
     "totaladdons": 1
@@ -32140,7 +32140,7 @@
         "nochangelog": "true",
         "size": "6113KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 37896,
+        "downloads": 38206,
         "icons": [
           {
             "remotepath": "",
@@ -32149,7 +32149,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-        "prevyeardl": 37586
+        "prevyeardl": 37896
       },
       {
         "id": "game.libretro.parallel_n64",
@@ -40105,10 +40105,10 @@
         ],
         "size": "55KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 56213,
+        "downloads": 56630,
         "icon": "/images/addons/omega/script.module.twitter/icon.png",
         "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-        "prevyeardl": 55796
+        "prevyeardl": 56213
       }
     ],
     "totaladdons": 1
@@ -40643,9 +40643,9 @@
         ],
         "size": "2130KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1855113,
+        "downloads": 1870286,
         "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-        "prevyeardl": 1839940
+        "prevyeardl": 1855113
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.bw",
@@ -40685,7 +40685,7 @@
         "nofanart": "true",
         "size": "27316KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1731854,
+        "downloads": 1746217,
         "icons": [
           {
             "remotepath": "",
@@ -40693,7 +40693,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1717491
+        "prevyeardl": 1731854
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -40733,7 +40733,7 @@
         "nofanart": "true",
         "size": "44060KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2100284,
+        "downloads": 2117093,
         "icons": [
           {
             "remotepath": "",
@@ -40741,7 +40741,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2083475
+        "prevyeardl": 2100284
       }
     ],
     "totaladdons": 3
@@ -40982,10 +40982,10 @@
         ],
         "size": "181KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 36646,
+        "downloads": 37030,
         "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
         "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-        "prevyeardl": 36262
+        "prevyeardl": 36646
       },
       {
         "id": "script.module.google-auth-oauthlib",
@@ -42742,9 +42742,9 @@
         ],
         "size": "2130KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1855113,
+        "downloads": 1870286,
         "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-        "prevyeardl": 1839940
+        "prevyeardl": 1855113
       }
     ],
     "totaladdons": 1
@@ -51465,10 +51465,10 @@
         "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
         "size": "3768KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 2372,
+        "downloads": 2561,
         "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
         "snippet": "Mr.Boom (Bomberman)",
-        "prevyeardl": 2183
+        "prevyeardl": 2372
       }
     ],
     "totaladdons": 1
@@ -58856,10 +58856,10 @@
         "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
         "size": "1903KB",
         "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 32372,
+        "downloads": 33876,
         "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
         "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-        "prevyeardl": 30868
+        "prevyeardl": 32372
       },
       {
         "id": "game.libretro.snes9x",
@@ -61710,10 +61710,10 @@
         "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
         "size": "1903KB",
         "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 32372,
+        "downloads": 33876,
         "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
         "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-        "prevyeardl": 30868
+        "prevyeardl": 32372
       }
     ],
     "totaladdons": 2
@@ -62549,10 +62549,10 @@
         ],
         "size": "373KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1733837,
+        "downloads": 1745761,
         "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
         "snippet": "Embuary Sounds",
-        "prevyeardl": 1721913
+        "prevyeardl": 1733837
       },
       {
         "id": "script.metadata.editor",
@@ -73294,7 +73294,7 @@
         "nofanart": "true",
         "size": "49696KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 3001010,
+        "downloads": 3025680,
         "icons": [
           {
             "remotepath": "",
@@ -73302,7 +73302,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2976340
+        "prevyeardl": 3001010
       },
       {
         "id": "metadata.common.musicbrainz.org",
@@ -77979,10 +77979,10 @@
         "lifecyclestate": "Deprecated API",
         "size": "83KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 5487211,
+        "downloads": 5527703,
         "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 5446719
+        "prevyeardl": 5487211
       },
       {
         "id": "metadata.albums.theaudiodb.com",
@@ -78808,7 +78808,7 @@
         "nochangelog": "true",
         "size": "1314KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 35357,
+        "downloads": 35621,
         "icons": [
           {
             "remotepath": "",
@@ -78818,7 +78818,7 @@
         "icon": "/images/default-addon.webp",
         "description": "Vortex Visualization from XBOX package",
         "snippet": "Vortex Visualization from XBOX package",
-        "prevyeardl": 35093
+        "prevyeardl": 35357
       },
       {
         "id": "resource.images.weatherfanart.faded",
@@ -79278,7 +79278,7 @@
         "nofanart": "true",
         "size": "94KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2336197,
+        "downloads": 2362549,
         "icons": [
           {
             "remotepath": "",
@@ -79286,7 +79286,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2309845
+        "prevyeardl": 2336197
       },
       {
         "id": "resource.images.weathericons.transparent",
@@ -79839,9 +79839,9 @@
         ],
         "size": "417KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 923867,
+        "downloads": 930138,
         "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-        "prevyeardl": 917596
+        "prevyeardl": 923867
       },
       {
         "id": "resource.uisounds.tetradui",
@@ -80872,10 +80872,10 @@
         ],
         "size": "15KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 221229,
+        "downloads": 222575,
         "icon": "/images/addons/omega/script.module.cachetools/icon.png",
         "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-        "prevyeardl": 219883
+        "prevyeardl": 221229
       }
     ],
     "totaladdons": 1
@@ -82196,10 +82196,10 @@
         "news": "- 1.1.6: Use artworks data for season posters instead of season image",
         "size": "565KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 11418725,
+        "downloads": 11497409,
         "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 11340041
+        "prevyeardl": 11418725
       },
       {
         "id": "metadata.movies.thetvdb.com.v4.python",
@@ -83260,10 +83260,10 @@
         "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
         "size": "1074KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 1473,
+        "downloads": 1589,
         "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
         "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-        "prevyeardl": 1357
+        "prevyeardl": 1473
       }
     ],
     "totaladdons": 2
@@ -85233,7 +85233,7 @@
         "nochangelog": "true",
         "size": "2KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 26809,
+        "downloads": 27024,
         "icons": [
           {
             "remotepath": "",
@@ -85241,7 +85241,140 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 26594
+        "prevyeardl": 26809
+      }
+    ],
+    "totaladdons": 1
+  },
+  {
+    "name": "xhaggi",
+    "slug": "xhaggi",
+    "icon": "/images/authors/xhaggi.webp",
+    "id": "xhaggi",
+    "addons": [
+      {
+        "id": "skin.xperience1080",
+        "addonid": "skin.xperience1080",
+        "name": "Xperience1080",
+        "slug": "skin.xperience1080",
+        "version": "10.0.0",
+        "authors": [
+          {
+            "name": "xhaggi",
+            "slug": "xhaggi",
+            "icon": "/images/authors/xhaggi.webp"
+          }
+        ],
+        "platforms": [
+          {
+            "platform": "all",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/skin.xperience1080/skin.xperience1080-10.0.0.zip",
+            "statspath": "/addons/omega/skin.xperience1080/skin.xperience1080-10.0.0.zip"
+          }
+        ],
+        "categories": [
+          {
+            "name": "Skins",
+            "slug": "skins",
+            "icon": "/images/categories/skins.webp"
+          }
+        ],
+        "firstseen": "2025-01-11T02:50:01.230Z",
+        "agetype": "new",
+        "summary": "Clean, modern, and elegant panel-based Skin.",
+        "description": "Xperience1080 delivers a skin with a focus on graphical quality, smooth animations, and very well integrated functions and Add-ons.",
+        "disclaimer": "Maus und Touch-Eingaben werden nicht unterstützt.",
+        "license": "Creative Commons Attribution-Noncommercial-Share Alike 3.0",
+        "forum": "http://forum.kodi.tv/forumdisplay.php?fid=197",
+        "source": "https://github.com/xperience1080/skin.xperience1080",
+        "icons": [
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/icon.png",
+            "remotepath": "resources/icon.png"
+          }
+        ],
+        "fanarts": [
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/fanart.jpg",
+            "remotepath": "resources/fanart.jpg"
+          }
+        ],
+        "screenshots": [
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot00.png",
+            "remotepath": "resources/screenshots/screenshot00.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot01.png",
+            "remotepath": "resources/screenshots/screenshot01.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot02.png",
+            "remotepath": "resources/screenshots/screenshot02.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot03.png",
+            "remotepath": "resources/screenshots/screenshot03.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot04.png",
+            "remotepath": "resources/screenshots/screenshot04.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot05.png",
+            "remotepath": "resources/screenshots/screenshot05.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot06.png",
+            "remotepath": "resources/screenshots/screenshot06.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot07.png",
+            "remotepath": "resources/screenshots/screenshot07.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot08.png",
+            "remotepath": "resources/screenshots/screenshot08.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot09.png",
+            "remotepath": "resources/screenshots/screenshot09.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot10.png",
+            "remotepath": "resources/screenshots/screenshot10.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot11.png",
+            "remotepath": "resources/screenshots/screenshot11.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot12.png",
+            "remotepath": "resources/screenshots/screenshot12.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot13.png",
+            "remotepath": "resources/screenshots/screenshot13.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot14.png",
+            "remotepath": "resources/screenshots/screenshot14.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot15.png",
+            "remotepath": "resources/screenshots/screenshot15.png"
+          },
+          {
+            "localpath": "/images/addons/omega/skin.xperience1080/resources/screenshots/screenshot16.png",
+            "remotepath": "resources/screenshots/screenshot16.png"
+          }
+        ],
+        "size": "44373KB",
+        "lastupdate": "2025-01-11T02:50:01.230Z",
+        "downloads": 0,
+        "prevyeardl": 0,
+        "icon": "/images/addons/omega/skin.xperience1080/resources/icon.png",
+        "snippet": "Clean, modern, and elegant panel-based Skin."
       }
     ],
     "totaladdons": 1
