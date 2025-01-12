@@ -8926,7 +8926,7 @@
     "nochangelog": "true",
     "size": "6113KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 38206,
+    "downloads": 38516,
     "icons": [
       {
         "remotepath": "",
@@ -8935,7 +8935,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-    "prevyeardl": 37896
+    "prevyeardl": 38206
   },
   {
     "id": "game.libretro.dosbox",
@@ -12511,10 +12511,10 @@
     "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
     "size": "3768KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 2561,
+    "downloads": 2750,
     "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
     "snippet": "Mr.Boom (Bomberman)",
-    "prevyeardl": 2372
+    "prevyeardl": 2561
   },
   {
     "id": "game.libretro.mu",
@@ -14065,10 +14065,10 @@
     "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
     "size": "1154KB",
     "lastupdate": "2024-12-27T02:49:49.502Z",
-    "downloads": 3476,
+    "downloads": 3719,
     "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
     "snippet": "Sharp - X68000 (PX68k)",
-    "prevyeardl": 3233
+    "prevyeardl": 3476
   },
   {
     "id": "game.libretro.quasi88",
@@ -15143,10 +15143,10 @@
     "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
     "size": "1903KB",
     "lastupdate": "2024-12-15T03:09:15.479Z",
-    "downloads": 33876,
+    "downloads": 35380,
     "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
     "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-    "prevyeardl": 32372
+    "prevyeardl": 33876
   },
   {
     "id": "game.libretro.stella",
@@ -16025,10 +16025,10 @@
     "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
     "size": "1074KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 1589,
+    "downloads": 1705,
     "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
     "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-    "prevyeardl": 1473
+    "prevyeardl": 1589
   },
   {
     "id": "game.libretro.vecx",
@@ -18201,7 +18201,7 @@
     "nochangelog": "true",
     "size": "2KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 27024,
+    "downloads": 27239,
     "icons": [
       {
         "remotepath": "",
@@ -18209,7 +18209,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 26809
+    "prevyeardl": 27024
   },
   {
     "id": "metadata.common.musicbrainz.org",
@@ -18824,10 +18824,10 @@
     "lifecyclestate": "Deprecated API",
     "size": "83KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 5527703,
+    "downloads": 5568195,
     "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 5487211
+    "prevyeardl": 5527703
   },
   {
     "id": "metadata.tvmaze",
@@ -19063,10 +19063,10 @@
     "news": "- 1.1.6: Use artworks data for season posters instead of season image",
     "size": "565KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 11497409,
+    "downloads": 11576093,
     "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 11418725
+    "prevyeardl": 11497409
   },
   {
     "id": "metadata.universal",
@@ -21401,6 +21401,71 @@
     "downloads": 2365,
     "icon": "/images/addons/omega/plugin.program.mceremote/resources/icon.png",
     "snippet": "MCE Remote configuration"
+  },
+  {
+    "id": "plugin.program.smartplaylist.generator",
+    "addonid": "plugin.program.smartplaylist.generator",
+    "name": "Smartplaylist Generator",
+    "slug": "plugin.program.smartplaylist.generator",
+    "version": "0.1.8",
+    "authors": [
+      {
+        "name": "Lunatixz",
+        "slug": "lunatixz",
+        "icon": "/images/authors/lunatixz.webp"
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "all",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.program.smartplaylist.generator/plugin.program.smartplaylist.generator-0.1.8.zip",
+        "statspath": "/addons/omega/plugin.program.smartplaylist.generator/plugin.program.smartplaylist.generator-0.1.8.zip"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Plugins",
+        "slug": "plugins",
+        "icon": "/images/categories/plugins.webp"
+      },
+      {
+        "name": "Program addons",
+        "slug": "program-addons",
+        "icon": "/images/categories/program-addons.webp"
+      },
+      {
+        "name": "Services",
+        "slug": "services",
+        "icon": "/images/categories/services.webp"
+      }
+    ],
+    "firstseen": "2025-01-12T02:58:22.793Z",
+    "agetype": "new",
+    "summary": "Generate Smartplaylists from third-party lists.",
+    "description": "Generate Smartplaylists from third-party lists.",
+    "license": "GPL-3.0-or-later",
+    "source": "https://github.com/Lunatixz/KODI_Addons/tree/master/plugin.program.smartplaylist.generator",
+    "forum": "https://forum.kodi.tv/showthread.php?tid=379825",
+    "disclaimer": "BETA PROJECT; SUBJECT TO BUGS",
+    "reuselanguageinvoker": "false",
+    "icons": [
+      {
+        "localpath": "/images/addons/omega/plugin.program.smartplaylist.generator/resources/images/icon.png",
+        "remotepath": "resources/images/icon.png"
+      }
+    ],
+    "fanarts": [
+      {
+        "localpath": "/images/addons/omega/plugin.program.smartplaylist.generator/resources/images/fanart.jpg",
+        "remotepath": "resources/images/fanart.jpg"
+      }
+    ],
+    "size": "284KB",
+    "lastupdate": "2025-01-12T02:58:22.793Z",
+    "downloads": 0,
+    "prevyeardl": 0,
+    "icon": "/images/addons/omega/plugin.program.smartplaylist.generator/resources/images/icon.png",
+    "snippet": "Generate Smartplaylists from third-party lists."
   },
   {
     "id": "plugin.switchback",
@@ -25387,10 +25452,10 @@
     ],
     "size": "549KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 9785403,
+    "downloads": 9849002,
     "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
     "snippet": "IMDb Trailers video add-on",
-    "prevyeardl": 9721804
+    "prevyeardl": 9785403
   },
   {
     "id": "plugin.video.invidious",
@@ -34877,9 +34942,9 @@
     ],
     "size": "2130KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1870286,
+    "downloads": 1885459,
     "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-    "prevyeardl": 1855113
+    "prevyeardl": 1870286
   },
   {
     "id": "resource.images.moviecountryicons.flags",
@@ -35479,7 +35544,7 @@
     "nofanart": "true",
     "size": "27316KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1746217,
+    "downloads": 1760580,
     "icons": [
       {
         "remotepath": "",
@@ -35487,7 +35552,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 1731854
+    "prevyeardl": 1746217
   },
   {
     "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -35527,7 +35592,7 @@
     "nofanart": "true",
     "size": "44060KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2117093,
+    "downloads": 2133902,
     "icons": [
       {
         "remotepath": "",
@@ -35535,7 +35600,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2100284
+    "prevyeardl": 2117093
   },
   {
     "id": "resource.images.moviegenreicons.grey",
@@ -35948,7 +36013,7 @@
     "nofanart": "true",
     "size": "49696KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 3025680,
+    "downloads": 3050350,
     "icons": [
       {
         "remotepath": "",
@@ -35956,7 +36021,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 3001010
+    "prevyeardl": 3025680
   },
   {
     "id": "resource.images.recordlabels.white",
@@ -37611,7 +37676,7 @@
     "nofanart": "true",
     "size": "94KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2362549,
+    "downloads": 2388901,
     "icons": [
       {
         "remotepath": "",
@@ -37619,7 +37684,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2336197
+    "prevyeardl": 2362549
   },
   {
     "id": "resource.images.weathericons.outline-hd",
@@ -41394,9 +41459,9 @@
     ],
     "size": "417KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 930138,
+    "downloads": 936409,
     "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-    "prevyeardl": 923867
+    "prevyeardl": 930138
   },
   {
     "id": "resource.uisounds.embuary",
@@ -41445,10 +41510,10 @@
     ],
     "size": "373KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1745761,
+    "downloads": 1757685,
     "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
     "snippet": "Embuary Sounds",
-    "prevyeardl": 1733837
+    "prevyeardl": 1745761
   },
   {
     "id": "resource.uisounds.fromashes",
@@ -47955,10 +48020,10 @@
     ],
     "size": "15KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 222575,
+    "downloads": 223921,
     "icon": "/images/addons/omega/script.module.cachetools/icon.png",
     "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-    "prevyeardl": 221229
+    "prevyeardl": 222575
   },
   {
     "id": "script.module.certifi",
@@ -48625,10 +48690,10 @@
     ],
     "size": "181KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 37030,
+    "downloads": 37414,
     "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
     "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-    "prevyeardl": 36646
+    "prevyeardl": 37030
   },
   {
     "id": "script.module.google-auth-oauthlib",
@@ -50309,7 +50374,7 @@
     "nochangelog": "true",
     "size": "80KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 32609,
+    "downloads": 32893,
     "icons": [
       {
         "remotepath": "",
@@ -50318,7 +50383,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-    "prevyeardl": 32325
+    "prevyeardl": 32609
   },
   {
     "id": "script.module.pyasn1_modules",
@@ -50361,10 +50426,10 @@
     ],
     "size": "186KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 36940,
+    "downloads": 37323,
     "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
     "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-    "prevyeardl": 36557
+    "prevyeardl": 36940
   },
   {
     "id": "script.module.pyhdhr",
@@ -52079,10 +52144,10 @@
     ],
     "size": "55KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 56630,
+    "downloads": 57047,
     "icon": "/images/addons/omega/script.module.twitter/icon.png",
     "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-    "prevyeardl": 56213
+    "prevyeardl": 56630
   },
   {
     "id": "script.module.typing_extensions",
@@ -55321,10 +55386,10 @@
     ],
     "size": "308KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 352362,
+    "downloads": 354657,
     "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
     "snippet": "NFL Game Pass",
-    "prevyeardl": 350067
+    "prevyeardl": 352362
   },
   {
     "id": "script.video.randomtv",
@@ -58928,7 +58993,6 @@
     "size": "44373KB",
     "lastupdate": "2025-01-11T02:50:01.230Z",
     "downloads": 0,
-    "prevyeardl": 0,
     "icon": "/images/addons/omega/skin.xperience1080/resources/icon.png",
     "snippet": "Clean, modern, and elegant panel-based Skin."
   },
@@ -60195,7 +60259,7 @@
     "nochangelog": "true",
     "size": "1314KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 35621,
+    "downloads": 35885,
     "icons": [
       {
         "remotepath": "",
@@ -60205,7 +60269,7 @@
     "icon": "/images/default-addon.webp",
     "description": "Vortex Visualization from XBOX package",
     "snippet": "Vortex Visualization from XBOX package",
-    "prevyeardl": 35357
+    "prevyeardl": 35621
   },
   {
     "id": "visualization.waveform",
