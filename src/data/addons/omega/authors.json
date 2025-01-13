@@ -10,7 +10,7 @@
         "addonid": "plugin.video.iplayerwww",
         "name": "iPlayer WWW",
         "slug": "plugin.video.iplayerwww",
-        "version": "4.1.3",
+        "version": "4.1.4",
         "authors": [
           {
             "name": "CaptainT",
@@ -41,8 +41,8 @@
         "platforms": [
           {
             "platform": "all",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip",
-            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip",
+            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip"
           }
         ],
         "categories": [
@@ -82,10 +82,11 @@
             "remotepath": "resources/fanart.jpg"
           }
         ],
-        "news": "v4.1.3\nFixes for requests exceptions.\nFix for scrape mode \"All at once\".\nUpdated user agent.\n\nKnown issues:\n- No Red Button\n   ",
-        "size": "113KB",
-        "lastupdate": "2024-09-09T02:47:33.955Z",
-        "downloads": 114986,
+        "news": "v4.1.4\nBug fixes:\n- Issues with watchlist/added.\n- Watch from start for HD channels.\n- Catch unhandled exceptions and log them.\n- Recommendations is no longer available on the website.\nNew features:\n- Now supports Red Button content in listings.\n   ",
+        "size": "114KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
         "snippet": "TV and Radio from BBC iPlayer"
       }
@@ -2337,10 +2338,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -4686,10 +4687,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -5375,10 +5376,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -8692,7 +8693,7 @@
         "nofanart": "true",
         "size": "27316KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1760580,
+        "downloads": 1774943,
         "icons": [
           {
             "remotepath": "",
@@ -8700,7 +8701,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1746217
+        "prevyeardl": 1760580
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -8740,7 +8741,7 @@
         "nofanart": "true",
         "size": "44060KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2133902,
+        "downloads": 2150711,
         "icons": [
           {
             "remotepath": "",
@@ -8748,7 +8749,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2117093
+        "prevyeardl": 2133902
       }
     ],
     "totaladdons": 3
@@ -9419,7 +9420,7 @@
         "addonid": "plugin.video.iplayerwww",
         "name": "iPlayer WWW",
         "slug": "plugin.video.iplayerwww",
-        "version": "4.1.3",
+        "version": "4.1.4",
         "authors": [
           {
             "name": "CaptainT",
@@ -9450,8 +9451,8 @@
         "platforms": [
           {
             "platform": "all",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip",
-            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip",
+            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip"
           }
         ],
         "categories": [
@@ -9491,10 +9492,11 @@
             "remotepath": "resources/fanart.jpg"
           }
         ],
-        "news": "v4.1.3\nFixes for requests exceptions.\nFix for scrape mode \"All at once\".\nUpdated user agent.\n\nKnown issues:\n- No Red Button\n   ",
-        "size": "113KB",
-        "lastupdate": "2024-09-09T02:47:33.955Z",
-        "downloads": 114986,
+        "news": "v4.1.4\nBug fixes:\n- Issues with watchlist/added.\n- Watch from start for HD channels.\n- Catch unhandled exceptions and log them.\n- Recommendations is no longer available on the website.\nNew features:\n- Now supports Red Button content in listings.\n   ",
+        "size": "114KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
         "snippet": "TV and Radio from BBC iPlayer"
       },
@@ -9783,7 +9785,7 @@
         "addonid": "plugin.video.iplayerwww",
         "name": "iPlayer WWW",
         "slug": "plugin.video.iplayerwww",
-        "version": "4.1.3",
+        "version": "4.1.4",
         "authors": [
           {
             "name": "CaptainT",
@@ -9814,8 +9816,8 @@
         "platforms": [
           {
             "platform": "all",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip",
-            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip",
+            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip"
           }
         ],
         "categories": [
@@ -9855,10 +9857,11 @@
             "remotepath": "resources/fanart.jpg"
           }
         ],
-        "news": "v4.1.3\nFixes for requests exceptions.\nFix for scrape mode \"All at once\".\nUpdated user agent.\n\nKnown issues:\n- No Red Button\n   ",
-        "size": "113KB",
-        "lastupdate": "2024-09-09T02:47:33.955Z",
-        "downloads": 114986,
+        "news": "v4.1.4\nBug fixes:\n- Issues with watchlist/added.\n- Watch from start for HD channels.\n- Catch unhandled exceptions and log them.\n- Recommendations is no longer available on the website.\nNew features:\n- Now supports Red Button content in listings.\n   ",
+        "size": "114KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
         "snippet": "TV and Radio from BBC iPlayer"
       }
@@ -13692,10 +13695,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -14689,10 +14692,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -15679,10 +15682,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 2
@@ -17037,10 +17040,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -19036,10 +19039,10 @@
         "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
         "size": "1074KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 1705,
+        "downloads": 1821,
         "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
         "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-        "prevyeardl": 1589
+        "prevyeardl": 1705
       }
     ],
     "totaladdons": 3
@@ -21993,10 +21996,10 @@
         ],
         "size": "549KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 9849002,
+        "downloads": 9912601,
         "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
         "snippet": "IMDb Trailers video add-on",
-        "prevyeardl": 9785403
+        "prevyeardl": 9849002
       },
       {
         "id": "plugin.video.archive.org",
@@ -23724,10 +23727,10 @@
         "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
         "size": "1154KB",
         "lastupdate": "2024-12-27T02:49:49.502Z",
-        "downloads": 3719,
+        "downloads": 3962,
         "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
         "snippet": "Sharp - X68000 (PX68k)",
-        "prevyeardl": 3476
+        "prevyeardl": 3719
       }
     ],
     "totaladdons": 1
@@ -24889,7 +24892,7 @@
         "addonid": "plugin.video.iplayerwww",
         "name": "iPlayer WWW",
         "slug": "plugin.video.iplayerwww",
-        "version": "4.1.3",
+        "version": "4.1.4",
         "authors": [
           {
             "name": "CaptainT",
@@ -24920,8 +24923,8 @@
         "platforms": [
           {
             "platform": "all",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip",
-            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip",
+            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip"
           }
         ],
         "categories": [
@@ -24961,10 +24964,11 @@
             "remotepath": "resources/fanart.jpg"
           }
         ],
-        "news": "v4.1.3\nFixes for requests exceptions.\nFix for scrape mode \"All at once\".\nUpdated user agent.\n\nKnown issues:\n- No Red Button\n   ",
-        "size": "113KB",
-        "lastupdate": "2024-09-09T02:47:33.955Z",
-        "downloads": 114986,
+        "news": "v4.1.4\nBug fixes:\n- Issues with watchlist/added.\n- Watch from start for HD channels.\n- Catch unhandled exceptions and log them.\n- Recommendations is no longer available on the website.\nNew features:\n- Now supports Red Button content in listings.\n   ",
+        "size": "114KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
         "snippet": "TV and Radio from BBC iPlayer"
       }
@@ -25378,7 +25382,7 @@
         "nochangelog": "true",
         "size": "80KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 32893,
+        "downloads": 33177,
         "icons": [
           {
             "remotepath": "",
@@ -25387,7 +25391,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-        "prevyeardl": 32609
+        "prevyeardl": 32893
       },
       {
         "id": "script.module.pyasn1_modules",
@@ -25430,10 +25434,10 @@
         ],
         "size": "186KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 37323,
+        "downloads": 37706,
         "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
         "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-        "prevyeardl": 36940
+        "prevyeardl": 37323
       }
     ],
     "totaladdons": 2
@@ -30476,10 +30480,10 @@
         ],
         "size": "308KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 354657,
+        "downloads": 356952,
         "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
         "snippet": "NFL Game Pass",
-        "prevyeardl": 352362
+        "prevyeardl": 354657
       }
     ],
     "totaladdons": 1
@@ -32140,7 +32144,7 @@
         "nochangelog": "true",
         "size": "6113KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 38516,
+        "downloads": 38826,
         "icons": [
           {
             "remotepath": "",
@@ -32149,7 +32153,7 @@
         ],
         "icon": "/images/default-addon.webp",
         "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-        "prevyeardl": 38206
+        "prevyeardl": 38516
       },
       {
         "id": "game.libretro.parallel_n64",
@@ -33752,7 +33756,6 @@
         "size": "284KB",
         "lastupdate": "2025-01-12T02:58:22.793Z",
         "downloads": 0,
-        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.program.smartplaylist.generator/resources/images/icon.png",
         "snippet": "Generate Smartplaylists from third-party lists."
       },
@@ -40170,10 +40173,10 @@
         ],
         "size": "55KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 57047,
+        "downloads": 57464,
         "icon": "/images/addons/omega/script.module.twitter/icon.png",
         "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-        "prevyeardl": 56630
+        "prevyeardl": 57047
       }
     ],
     "totaladdons": 1
@@ -40708,9 +40711,9 @@
         ],
         "size": "2130KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1885459,
+        "downloads": 1900632,
         "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-        "prevyeardl": 1870286
+        "prevyeardl": 1885459
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.bw",
@@ -40750,7 +40753,7 @@
         "nofanart": "true",
         "size": "27316KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1760580,
+        "downloads": 1774943,
         "icons": [
           {
             "remotepath": "",
@@ -40758,7 +40761,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 1746217
+        "prevyeardl": 1760580
       },
       {
         "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -40798,7 +40801,7 @@
         "nofanart": "true",
         "size": "44060KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2133902,
+        "downloads": 2150711,
         "icons": [
           {
             "remotepath": "",
@@ -40806,7 +40809,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2117093
+        "prevyeardl": 2133902
       }
     ],
     "totaladdons": 3
@@ -41047,10 +41050,10 @@
         ],
         "size": "181KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 37414,
+        "downloads": 37798,
         "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
         "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-        "prevyeardl": 37030
+        "prevyeardl": 37414
       },
       {
         "id": "script.module.google-auth-oauthlib",
@@ -42807,9 +42810,9 @@
         ],
         "size": "2130KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1885459,
+        "downloads": 1900632,
         "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-        "prevyeardl": 1870286
+        "prevyeardl": 1885459
       }
     ],
     "totaladdons": 1
@@ -49311,7 +49314,7 @@
         "addonid": "plugin.video.iplayerwww",
         "name": "iPlayer WWW",
         "slug": "plugin.video.iplayerwww",
-        "version": "4.1.3",
+        "version": "4.1.4",
         "authors": [
           {
             "name": "CaptainT",
@@ -49342,8 +49345,8 @@
         "platforms": [
           {
             "platform": "all",
-            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip",
-            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.3.zip"
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip",
+            "statspath": "/addons/omega/plugin.video.iplayerwww/plugin.video.iplayerwww-4.1.4.zip"
           }
         ],
         "categories": [
@@ -49383,10 +49386,11 @@
             "remotepath": "resources/fanart.jpg"
           }
         ],
-        "news": "v4.1.3\nFixes for requests exceptions.\nFix for scrape mode \"All at once\".\nUpdated user agent.\n\nKnown issues:\n- No Red Button\n   ",
-        "size": "113KB",
-        "lastupdate": "2024-09-09T02:47:33.955Z",
-        "downloads": 114986,
+        "news": "v4.1.4\nBug fixes:\n- Issues with watchlist/added.\n- Watch from start for HD channels.\n- Catch unhandled exceptions and log them.\n- Recommendations is no longer available on the website.\nNew features:\n- Now supports Red Button content in listings.\n   ",
+        "size": "114KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
         "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
         "snippet": "TV and Radio from BBC iPlayer"
       },
@@ -51530,10 +51534,10 @@
         "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
         "size": "3768KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 2750,
+        "downloads": 2939,
         "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
         "snippet": "Mr.Boom (Bomberman)",
-        "prevyeardl": 2561
+        "prevyeardl": 2750
       }
     ],
     "totaladdons": 1
@@ -58921,10 +58925,10 @@
         "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
         "size": "1903KB",
         "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 35380,
+        "downloads": 36884,
         "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
         "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-        "prevyeardl": 33876
+        "prevyeardl": 35380
       },
       {
         "id": "game.libretro.snes9x",
@@ -61775,10 +61779,10 @@
         "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
         "size": "1903KB",
         "lastupdate": "2024-12-15T03:09:15.479Z",
-        "downloads": 35380,
+        "downloads": 36884,
         "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
         "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-        "prevyeardl": 33876
+        "prevyeardl": 35380
       }
     ],
     "totaladdons": 2
@@ -62614,10 +62618,10 @@
         ],
         "size": "373KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 1757685,
+        "downloads": 1769609,
         "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
         "snippet": "Embuary Sounds",
-        "prevyeardl": 1745761
+        "prevyeardl": 1757685
       },
       {
         "id": "script.metadata.editor",
@@ -71627,6 +71631,71 @@
         "snippet": "Japanese language pack"
       },
       {
+        "id": "peripheral.joystick",
+        "addonid": "peripheral.joystick",
+        "name": "Joystick Support",
+        "slug": "peripheral.joystick",
+        "version": "21.1.21",
+        "authors": [
+          {
+            "name": "Team Kodi",
+            "slug": "team-kodi",
+            "icon": "/images/authors/team-kodi.webp"
+          }
+        ],
+        "platforms": [
+          {
+            "platform": "windows-i686",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+windows-i686/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+windows-i686/peripheral.joystick-21.1.21.zip"
+          },
+          {
+            "platform": "windows-x86_64",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+windows-x86_64/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+windows-x86_64/peripheral.joystick-21.1.21.zip"
+          },
+          {
+            "platform": "osx-arm64",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.21.zip"
+          },
+          {
+            "platform": "osx-x86_64",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.21.zip"
+          },
+          {
+            "platform": "android-aarch64",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.21.zip"
+          },
+          {
+            "platform": "android-armv7",
+            "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.21.zip",
+            "statspath": "/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.21.zip"
+          }
+        ],
+        "categories": [],
+        "firstseen": "2025-01-13T02:55:55.227Z",
+        "agetype": "new",
+        "license": "GPL-2.0-or-later",
+        "source": "https://github.com/xbmc/peripheral.joystick",
+        "icons": [
+          {
+            "localpath": "/images/addons/omega/peripheral.joystick/resources/icon.png",
+            "remotepath": "resources/icon.png"
+          }
+        ],
+        "summary": "Kodi Joystick Library",
+        "description": "This library provides joystick drivers and button maps. Multiple joystick APIs are supported, including DirectX, XInput, SDL and the Linux Joystick API.",
+        "size": "407KB",
+        "lastupdate": "2025-01-13T02:55:55.227Z",
+        "downloads": 0,
+        "prevyeardl": 0,
+        "icon": "/images/addons/omega/peripheral.joystick/resources/icon.png",
+        "snippet": "Kodi Joystick Library"
+      },
+      {
         "id": "resource.language.kn_in",
         "addonid": "resource.language.kn_in",
         "name": "Kannada",
@@ -73359,7 +73428,7 @@
         "nofanart": "true",
         "size": "49696KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 3050350,
+        "downloads": 3075020,
         "icons": [
           {
             "remotepath": "",
@@ -73367,7 +73436,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 3025680
+        "prevyeardl": 3050350
       },
       {
         "id": "metadata.common.musicbrainz.org",
@@ -78044,10 +78113,10 @@
         "lifecyclestate": "Deprecated API",
         "size": "83KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 5568195,
+        "downloads": 5608687,
         "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 5527703
+        "prevyeardl": 5568195
       },
       {
         "id": "metadata.albums.theaudiodb.com",
@@ -78873,7 +78942,7 @@
         "nochangelog": "true",
         "size": "1314KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 35885,
+        "downloads": 36149,
         "icons": [
           {
             "remotepath": "",
@@ -78883,7 +78952,7 @@
         "icon": "/images/default-addon.webp",
         "description": "Vortex Visualization from XBOX package",
         "snippet": "Vortex Visualization from XBOX package",
-        "prevyeardl": 35621
+        "prevyeardl": 35885
       },
       {
         "id": "resource.images.weatherfanart.faded",
@@ -79343,7 +79412,7 @@
         "nofanart": "true",
         "size": "94KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 2388901,
+        "downloads": 2415253,
         "icons": [
           {
             "remotepath": "",
@@ -79351,7 +79420,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 2362549
+        "prevyeardl": 2388901
       },
       {
         "id": "resource.images.weathericons.transparent",
@@ -79567,7 +79636,7 @@
         "snippet": "WonderSwan"
       }
     ],
-    "totaladdons": 251
+    "totaladdons": 252
   },
   {
     "name": "Team Kodi: Memphiz",
@@ -79904,9 +79973,9 @@
         ],
         "size": "417KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 936409,
+        "downloads": 942680,
         "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-        "prevyeardl": 930138
+        "prevyeardl": 936409
       },
       {
         "id": "resource.uisounds.tetradui",
@@ -80937,10 +81006,10 @@
         ],
         "size": "15KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 223921,
+        "downloads": 225267,
         "icon": "/images/addons/omega/script.module.cachetools/icon.png",
         "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-        "prevyeardl": 222575
+        "prevyeardl": 223921
       }
     ],
     "totaladdons": 1
@@ -82261,10 +82330,10 @@
         "news": "- 1.1.6: Use artworks data for season posters instead of season image",
         "size": "565KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 11576093,
+        "downloads": 11654777,
         "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
         "snippet": "Fetch TV show metadata from TheTVDB.com",
-        "prevyeardl": 11497409
+        "prevyeardl": 11576093
       },
       {
         "id": "metadata.movies.thetvdb.com.v4.python",
@@ -83325,10 +83394,10 @@
         "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
         "size": "1074KB",
         "lastupdate": "2024-12-28T02:46:24.312Z",
-        "downloads": 1705,
+        "downloads": 1821,
         "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
         "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-        "prevyeardl": 1589
+        "prevyeardl": 1705
       }
     ],
     "totaladdons": 2
@@ -85298,7 +85367,7 @@
         "nochangelog": "true",
         "size": "2KB",
         "lastupdate": "2024-04-06T15:19:14.420Z",
-        "downloads": 27239,
+        "downloads": 27454,
         "icons": [
           {
             "remotepath": "",
@@ -85306,7 +85375,7 @@
           }
         ],
         "icon": "/images/default-addon.webp",
-        "prevyeardl": 27024
+        "prevyeardl": 27239
       }
     ],
     "totaladdons": 1
