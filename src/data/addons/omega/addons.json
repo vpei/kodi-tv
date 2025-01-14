@@ -8926,7 +8926,7 @@
     "nochangelog": "true",
     "size": "6113KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 38826,
+    "downloads": 39136,
     "icons": [
       {
         "remotepath": "",
@@ -8935,7 +8935,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "Nintendo - GameCube / Wii (Dolphin) 1a7d1bc8",
-    "prevyeardl": 38516
+    "prevyeardl": 38826
   },
   {
     "id": "game.libretro.dosbox",
@@ -12511,10 +12511,10 @@
     "description": "Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.",
     "size": "3768KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 2939,
+    "downloads": 3128,
     "icon": "/images/addons/omega/game.libretro.mrboom/resources/icon.png",
     "snippet": "Mr.Boom (Bomberman)",
-    "prevyeardl": 2750
+    "prevyeardl": 2939
   },
   {
     "id": "game.libretro.mu",
@@ -14065,10 +14065,10 @@
     "description": "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.",
     "size": "1154KB",
     "lastupdate": "2024-12-27T02:49:49.502Z",
-    "downloads": 3962,
+    "downloads": 4205,
     "icon": "/images/addons/omega/game.libretro.px68k/resources/icon.png",
     "snippet": "Sharp - X68000 (PX68k)",
-    "prevyeardl": 3719
+    "prevyeardl": 3962
   },
   {
     "id": "game.libretro.quasi88",
@@ -15143,10 +15143,10 @@
     "disclaimer": "图标来源：HarryBana（harrybana.deviantart.com）",
     "size": "1903KB",
     "lastupdate": "2024-12-15T03:09:15.479Z",
-    "downloads": 36884,
+    "downloads": 38388,
     "icon": "/images/addons/omega/game.libretro.snes9x2010/resources/icon.png",
     "snippet": "Nintendo - SNES / SFC (Snes9x 2010)",
-    "prevyeardl": 35380
+    "prevyeardl": 36884
   },
   {
     "id": "game.libretro.stella",
@@ -16025,10 +16025,10 @@
     "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
     "size": "1074KB",
     "lastupdate": "2024-12-28T02:46:24.312Z",
-    "downloads": 1821,
+    "downloads": 1937,
     "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
     "snippet": "Nintendo - Game Boy Advance (VBA-M)",
-    "prevyeardl": 1705
+    "prevyeardl": 1821
   },
   {
     "id": "game.libretro.vecx",
@@ -18201,7 +18201,7 @@
     "nochangelog": "true",
     "size": "2KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 27454,
+    "downloads": 27669,
     "icons": [
       {
         "remotepath": "",
@@ -18209,7 +18209,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 27239
+    "prevyeardl": 27454
   },
   {
     "id": "metadata.common.musicbrainz.org",
@@ -18824,10 +18824,10 @@
     "lifecyclestate": "Deprecated API",
     "size": "83KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 5608687,
+    "downloads": 5649179,
     "icon": "/images/addons/omega/metadata.tvdb.com.python/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 5568195
+    "prevyeardl": 5608687
   },
   {
     "id": "metadata.tvmaze",
@@ -19063,10 +19063,10 @@
     "news": "- 1.1.6: Use artworks data for season posters instead of season image",
     "size": "565KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 11654777,
+    "downloads": 11733461,
     "icon": "/images/addons/omega/metadata.tvshows.thetvdb.com.v4.python/media/icon.png",
     "snippet": "Fetch TV show metadata from TheTVDB.com",
-    "prevyeardl": 11576093
+    "prevyeardl": 11654777
   },
   {
     "id": "metadata.universal",
@@ -19123,7 +19123,7 @@
     "addonid": "peripheral.joystick",
     "name": "Joystick Support",
     "slug": "peripheral.joystick",
-    "version": "21.1.21",
+    "version": "21.1.22",
     "authors": [
       {
         "name": "Team Kodi",
@@ -19133,6 +19133,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.22.zip",
+        "statspath": "/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.22.zip"
+      },
+      {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.22.zip",
+        "statspath": "/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.22.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.22.zip",
+        "statspath": "/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.22.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.22.zip",
+        "statspath": "/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.22.zip"
+      },
+      {
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+windows-i686/peripheral.joystick-21.1.21.zip",
         "statspath": "/addons/omega/peripheral.joystick+windows-i686/peripheral.joystick-21.1.21.zip"
@@ -19141,31 +19161,11 @@
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+windows-x86_64/peripheral.joystick-21.1.21.zip",
         "statspath": "/addons/omega/peripheral.joystick+windows-x86_64/peripheral.joystick-21.1.21.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.21.zip",
-        "statspath": "/addons/omega/peripheral.joystick+osx-arm64/peripheral.joystick-21.1.21.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.21.zip",
-        "statspath": "/addons/omega/peripheral.joystick+osx-x86_64/peripheral.joystick-21.1.21.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.21.zip",
-        "statspath": "/addons/omega/peripheral.joystick+android-aarch64/peripheral.joystick-21.1.21.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.21.zip",
-        "statspath": "/addons/omega/peripheral.joystick+android-armv7/peripheral.joystick-21.1.21.zip"
       }
     ],
     "categories": [],
     "firstseen": "2025-01-13T02:55:55.227Z",
-    "agetype": "new",
+    "agetype": "existing",
     "license": "GPL-2.0-or-later",
     "source": "https://github.com/xbmc/peripheral.joystick",
     "icons": [
@@ -19176,8 +19176,8 @@
     ],
     "summary": "Kodi Joystick Library",
     "description": "This library provides joystick drivers and button maps. Multiple joystick APIs are supported, including DirectX, XInput, SDL and the Linux Joystick API.",
-    "size": "407KB",
-    "lastupdate": "2025-01-13T02:55:55.227Z",
+    "size": "340KB",
+    "lastupdate": "2025-01-14T02:42:04.988Z",
     "downloads": 0,
     "prevyeardl": 0,
     "icon": "/images/addons/omega/peripheral.joystick/resources/icon.png",
@@ -25516,10 +25516,10 @@
     ],
     "size": "549KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 9912601,
+    "downloads": 9976200,
     "icon": "/images/addons/omega/plugin.video.imdb.trailers/icon.png",
     "snippet": "IMDb Trailers video add-on",
-    "prevyeardl": 9849002
+    "prevyeardl": 9912601
   },
   {
     "id": "plugin.video.invidious",
@@ -25665,7 +25665,6 @@
     "size": "114KB",
     "lastupdate": "2025-01-13T02:55:55.227Z",
     "downloads": 0,
-    "prevyeardl": 0,
     "icon": "/images/addons/omega/plugin.video.iplayerwww/resources/icon.png",
     "snippet": "TV and Radio from BBC iPlayer"
   },
@@ -35007,9 +35006,9 @@
     ],
     "size": "2130KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1900632,
+    "downloads": 1915805,
     "icon": "/images/addons/omega/resource.images.languageflags.rounded/icon.png",
-    "prevyeardl": 1885459
+    "prevyeardl": 1900632
   },
   {
     "id": "resource.images.moviecountryicons.flags",
@@ -35609,7 +35608,7 @@
     "nofanart": "true",
     "size": "27316KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1774943,
+    "downloads": 1789306,
     "icons": [
       {
         "remotepath": "",
@@ -35617,7 +35616,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 1760580
+    "prevyeardl": 1774943
   },
   {
     "id": "resource.images.moviegenreicons.filmstrip-hd.colour",
@@ -35657,7 +35656,7 @@
     "nofanart": "true",
     "size": "44060KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2150711,
+    "downloads": 2167520,
     "icons": [
       {
         "remotepath": "",
@@ -35665,7 +35664,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2133902
+    "prevyeardl": 2150711
   },
   {
     "id": "resource.images.moviegenreicons.grey",
@@ -36078,7 +36077,7 @@
     "nofanart": "true",
     "size": "49696KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 3075020,
+    "downloads": 3099690,
     "icons": [
       {
         "remotepath": "",
@@ -36086,7 +36085,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 3050350
+    "prevyeardl": 3075020
   },
   {
     "id": "resource.images.recordlabels.white",
@@ -37741,7 +37740,7 @@
     "nofanart": "true",
     "size": "94KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 2415253,
+    "downloads": 2441605,
     "icons": [
       {
         "remotepath": "",
@@ -37749,7 +37748,7 @@
       }
     ],
     "icon": "/images/default-addon.webp",
-    "prevyeardl": 2388901
+    "prevyeardl": 2415253
   },
   {
     "id": "resource.images.weathericons.outline-hd",
@@ -41524,9 +41523,9 @@
     ],
     "size": "417KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 942680,
+    "downloads": 948951,
     "icon": "/images/addons/omega/resource.uisounds.ellipsisui/icon.png",
-    "prevyeardl": 936409
+    "prevyeardl": 942680
   },
   {
     "id": "resource.uisounds.embuary",
@@ -41575,10 +41574,10 @@
     ],
     "size": "373KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 1769609,
+    "downloads": 1781533,
     "icon": "/images/addons/omega/resource.uisounds.embuary/resources/icon.png",
     "snippet": "Embuary Sounds",
-    "prevyeardl": 1757685
+    "prevyeardl": 1769609
   },
   {
     "id": "resource.uisounds.fromashes",
@@ -48085,10 +48084,10 @@
     ],
     "size": "15KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 225267,
+    "downloads": 226613,
     "icon": "/images/addons/omega/script.module.cachetools/icon.png",
     "snippet": "This module provides various memoizing collections and decorators, including variants of the Python Standard Library's...",
-    "prevyeardl": 223921
+    "prevyeardl": 225267
   },
   {
     "id": "script.module.certifi",
@@ -48755,10 +48754,10 @@
     ],
     "size": "181KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 37798,
+    "downloads": 38182,
     "icon": "/images/addons/omega/script.module.google-auth-library/icon.png",
     "snippet": "This library simplifies using Google's various server-to-server authentication mechanisms to access Google APIs.",
-    "prevyeardl": 37414
+    "prevyeardl": 37798
   },
   {
     "id": "script.module.google-auth-oauthlib",
@@ -50439,7 +50438,7 @@
     "nochangelog": "true",
     "size": "80KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 33177,
+    "downloads": 33461,
     "icons": [
       {
         "remotepath": "",
@@ -50448,7 +50447,7 @@
     ],
     "icon": "/images/default-addon.webp",
     "snippet": "This is a free and open source implementation of ASN.1 types and codecs as a...",
-    "prevyeardl": 32893
+    "prevyeardl": 33177
   },
   {
     "id": "script.module.pyasn1_modules",
@@ -50491,10 +50490,10 @@
     ],
     "size": "186KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 37706,
+    "downloads": 38089,
     "icon": "/images/addons/omega/script.module.pyasn1_modules/icon.png",
     "snippet": "The pyasn1-modules package contains a collection of ASN.1 data structures expressed as Python classes based...",
-    "prevyeardl": 37323
+    "prevyeardl": 37706
   },
   {
     "id": "script.module.pyhdhr",
@@ -52209,10 +52208,10 @@
     ],
     "size": "55KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 57464,
+    "downloads": 57881,
     "icon": "/images/addons/omega/script.module.twitter/icon.png",
     "snippet": "An API and command-line toolset for Twitter (twitter.com)",
-    "prevyeardl": 57047
+    "prevyeardl": 57464
   },
   {
     "id": "script.module.typing_extensions",
@@ -55451,10 +55450,10 @@
     ],
     "size": "308KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 356952,
+    "downloads": 359247,
     "icon": "/images/addons/omega/script.video.nfl.gamepass/resources/art/icon.png",
     "snippet": "NFL Game Pass",
-    "prevyeardl": 354657
+    "prevyeardl": 356952
   },
   {
     "id": "script.video.randomtv",
@@ -60324,7 +60323,7 @@
     "nochangelog": "true",
     "size": "1314KB",
     "lastupdate": "2024-04-06T15:19:14.420Z",
-    "downloads": 36149,
+    "downloads": 36413,
     "icons": [
       {
         "remotepath": "",
@@ -60334,7 +60333,7 @@
     "icon": "/images/default-addon.webp",
     "description": "Vortex Visualization from XBOX package",
     "snippet": "Vortex Visualization from XBOX package",
-    "prevyeardl": 35885
+    "prevyeardl": 36149
   },
   {
     "id": "visualization.waveform",
