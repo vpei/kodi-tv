@@ -15201,7 +15201,7 @@
     "addonid": "game.libretro.scummvm",
     "name": "ScummVM",
     "slug": "game.libretro.scummvm",
-    "version": "2.10.0.50",
+    "version": "2.10.0.51",
     "authors": [
       {
         "name": "SCUMMVMdev",
@@ -15211,6 +15211,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+osx-x86_64/game.libretro.scummvm-2.10.0.51.zip",
+        "statspath": "/addons/omega/game.libretro.scummvm+osx-x86_64/game.libretro.scummvm-2.10.0.51.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+osx-arm64/game.libretro.scummvm-2.10.0.51.zip",
+        "statspath": "/addons/omega/game.libretro.scummvm+osx-arm64/game.libretro.scummvm-2.10.0.51.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+android-armv7/game.libretro.scummvm-2.10.0.51.zip",
+        "statspath": "/addons/omega/game.libretro.scummvm+android-armv7/game.libretro.scummvm-2.10.0.51.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+android-aarch64/game.libretro.scummvm-2.10.0.51.zip",
+        "statspath": "/addons/omega/game.libretro.scummvm+android-aarch64/game.libretro.scummvm-2.10.0.51.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+windows-x86_64/game.libretro.scummvm-2.10.0.50.zip",
         "statspath": "/addons/omega/game.libretro.scummvm+windows-x86_64/game.libretro.scummvm-2.10.0.50.zip"
@@ -15219,26 +15239,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+windows-i686/game.libretro.scummvm-2.10.0.50.zip",
         "statspath": "/addons/omega/game.libretro.scummvm+windows-i686/game.libretro.scummvm-2.10.0.50.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+osx-x86_64/game.libretro.scummvm-2.10.0.50.zip",
-        "statspath": "/addons/omega/game.libretro.scummvm+osx-x86_64/game.libretro.scummvm-2.10.0.50.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+osx-arm64/game.libretro.scummvm-2.10.0.50.zip",
-        "statspath": "/addons/omega/game.libretro.scummvm+osx-arm64/game.libretro.scummvm-2.10.0.50.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+android-armv7/game.libretro.scummvm-2.10.0.50.zip",
-        "statspath": "/addons/omega/game.libretro.scummvm+android-armv7/game.libretro.scummvm-2.10.0.50.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.scummvm+android-aarch64/game.libretro.scummvm-2.10.0.50.zip",
-        "statspath": "/addons/omega/game.libretro.scummvm+android-aarch64/game.libretro.scummvm-2.10.0.50.zip"
       }
     ],
     "categories": [
@@ -15280,9 +15280,10 @@
     ],
     "summary": "ScummVM",
     "description": "ScummVM is a collection of game engine recreations. ScummVM emulates several systems, including the SCUMM system for LucasArts adventure games.",
-    "size": "104136KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "117917KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.scummvm/resources/icon.png",
     "snippet": "ScummVM"
   },
@@ -16217,7 +16218,7 @@
     "addonid": "game.libretro.uae",
     "name": "Commodore - Amiga (PUAE)",
     "slug": "game.libretro.uae",
-    "version": "5.3.0.80",
+    "version": "5.3.0.81",
     "authors": [
       {
         "name": "UAE Team",
@@ -16227,6 +16228,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+osx-x86_64/game.libretro.uae-5.3.0.81.zip",
+        "statspath": "/addons/omega/game.libretro.uae+osx-x86_64/game.libretro.uae-5.3.0.81.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+osx-arm64/game.libretro.uae-5.3.0.81.zip",
+        "statspath": "/addons/omega/game.libretro.uae+osx-arm64/game.libretro.uae-5.3.0.81.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+android-armv7/game.libretro.uae-5.3.0.81.zip",
+        "statspath": "/addons/omega/game.libretro.uae+android-armv7/game.libretro.uae-5.3.0.81.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+android-aarch64/game.libretro.uae-5.3.0.81.zip",
+        "statspath": "/addons/omega/game.libretro.uae+android-aarch64/game.libretro.uae-5.3.0.81.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+windows-x86_64/game.libretro.uae-5.3.0.80.zip",
         "statspath": "/addons/omega/game.libretro.uae+windows-x86_64/game.libretro.uae-5.3.0.80.zip"
@@ -16235,26 +16256,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+windows-i686/game.libretro.uae-5.3.0.80.zip",
         "statspath": "/addons/omega/game.libretro.uae+windows-i686/game.libretro.uae-5.3.0.80.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+osx-x86_64/game.libretro.uae-5.3.0.80.zip",
-        "statspath": "/addons/omega/game.libretro.uae+osx-x86_64/game.libretro.uae-5.3.0.80.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+osx-arm64/game.libretro.uae-5.3.0.80.zip",
-        "statspath": "/addons/omega/game.libretro.uae+osx-arm64/game.libretro.uae-5.3.0.80.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+android-armv7/game.libretro.uae-5.3.0.80.zip",
-        "statspath": "/addons/omega/game.libretro.uae+android-armv7/game.libretro.uae-5.3.0.80.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.uae+android-aarch64/game.libretro.uae-5.3.0.80.zip",
-        "statspath": "/addons/omega/game.libretro.uae+android-aarch64/game.libretro.uae-5.3.0.80.zip"
       }
     ],
     "categories": [
@@ -16276,9 +16277,10 @@
     ],
     "summary": "Commodore - Amiga (PUAE)",
     "description": "UAE stands for the Ubiquitous Amiga Emulator.\n\nMost games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.",
-    "size": "6343KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "6814KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.uae/resources/icon.png",
     "snippet": "Commodore - Amiga (PUAE)"
   },
@@ -16453,7 +16455,7 @@
     "addonid": "game.libretro.vbam",
     "name": "Nintendo - Game Boy Advance (VBA-M)",
     "slug": "game.libretro.vbam",
-    "version": "2.1.11.54",
+    "version": "2.2.1.55",
     "authors": [
       {
         "name": "Forgotten",
@@ -16468,6 +16470,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+osx-x86_64/game.libretro.vbam-2.2.1.55.zip",
+        "statspath": "/addons/omega/game.libretro.vbam+osx-x86_64/game.libretro.vbam-2.2.1.55.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+osx-arm64/game.libretro.vbam-2.2.1.55.zip",
+        "statspath": "/addons/omega/game.libretro.vbam+osx-arm64/game.libretro.vbam-2.2.1.55.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+android-aarch64/game.libretro.vbam-2.2.1.55.zip",
+        "statspath": "/addons/omega/game.libretro.vbam+android-aarch64/game.libretro.vbam-2.2.1.55.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+android-armv7/game.libretro.vbam-2.2.1.55.zip",
+        "statspath": "/addons/omega/game.libretro.vbam+android-armv7/game.libretro.vbam-2.2.1.55.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+windows-x86_64/game.libretro.vbam-2.1.11.54.zip",
         "statspath": "/addons/omega/game.libretro.vbam+windows-x86_64/game.libretro.vbam-2.1.11.54.zip"
@@ -16476,26 +16498,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+windows-i686/game.libretro.vbam-2.1.11.54.zip",
         "statspath": "/addons/omega/game.libretro.vbam+windows-i686/game.libretro.vbam-2.1.11.54.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+android-armv7/game.libretro.vbam-2.1.11.54.zip",
-        "statspath": "/addons/omega/game.libretro.vbam+android-armv7/game.libretro.vbam-2.1.11.54.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+osx-x86_64/game.libretro.vbam-2.1.11.54.zip",
-        "statspath": "/addons/omega/game.libretro.vbam+osx-x86_64/game.libretro.vbam-2.1.11.54.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+osx-arm64/game.libretro.vbam-2.1.11.54.zip",
-        "statspath": "/addons/omega/game.libretro.vbam+osx-arm64/game.libretro.vbam-2.1.11.54.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vbam+android-aarch64/game.libretro.vbam-2.1.11.54.zip",
-        "statspath": "/addons/omega/game.libretro.vbam+android-aarch64/game.libretro.vbam-2.1.11.54.zip"
       }
     ],
     "categories": [
@@ -16531,9 +16533,10 @@
     ],
     "summary": "Nintendo - Game Boy Advance (VBA-M)",
     "description": "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.",
-    "size": "1170KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1396KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vbam/resources/icon.png",
     "snippet": "Nintendo - Game Boy Advance (VBA-M)"
   },
@@ -16772,7 +16775,7 @@
     "addonid": "game.libretro.vice_x128",
     "name": "Commodore - C128 (VICE x128)",
     "slug": "game.libretro.vice_x128",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -16782,6 +16785,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+osx-x86_64/game.libretro.vice_x128-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x128+osx-x86_64/game.libretro.vice_x128-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+osx-arm64/game.libretro.vice_x128-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x128+osx-arm64/game.libretro.vice_x128-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+android-aarch64/game.libretro.vice_x128-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x128+android-aarch64/game.libretro.vice_x128-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+android-armv7/game.libretro.vice_x128-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x128+android-armv7/game.libretro.vice_x128-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+windows-i686/game.libretro.vice_x128-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_x128+windows-i686/game.libretro.vice_x128-3.9.0.26.zip"
@@ -16790,26 +16813,6 @@
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+windows-x86_64/game.libretro.vice_x128-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_x128+windows-x86_64/game.libretro.vice_x128-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+osx-x86_64/game.libretro.vice_x128-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x128+osx-x86_64/game.libretro.vice_x128-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+osx-arm64/game.libretro.vice_x128-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x128+osx-arm64/game.libretro.vice_x128-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+android-aarch64/game.libretro.vice_x128-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x128+android-aarch64/game.libretro.vice_x128-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x128+android-armv7/game.libretro.vice_x128-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x128+android-armv7/game.libretro.vice_x128-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -16831,9 +16834,10 @@
     ],
     "summary": "Commodore - C128 (VICE x128)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1504KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1960KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_x128/resources/icon.png",
     "snippet": "Commodore - C128 (VICE x128)"
   },
@@ -16842,7 +16846,7 @@
     "addonid": "game.libretro.vice_x64",
     "name": "Commodore - C64 (VICE x64, fast)",
     "slug": "game.libretro.vice_x64",
-    "version": "3.9.0.64",
+    "version": "3.9.0.65",
     "authors": [
       {
         "name": "VICE Team",
@@ -16852,6 +16856,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+osx-x86_64/game.libretro.vice_x64-3.9.0.65.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64+osx-x86_64/game.libretro.vice_x64-3.9.0.65.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+osx-arm64/game.libretro.vice_x64-3.9.0.65.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64+osx-arm64/game.libretro.vice_x64-3.9.0.65.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+android-armv7/game.libretro.vice_x64-3.9.0.65.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64+android-armv7/game.libretro.vice_x64-3.9.0.65.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+android-aarch64/game.libretro.vice_x64-3.9.0.65.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64+android-aarch64/game.libretro.vice_x64-3.9.0.65.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+windows-x86_64/game.libretro.vice_x64-3.9.0.64.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64+windows-x86_64/game.libretro.vice_x64-3.9.0.64.zip"
@@ -16860,26 +16884,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+windows-i686/game.libretro.vice_x64-3.9.0.64.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64+windows-i686/game.libretro.vice_x64-3.9.0.64.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+osx-x86_64/game.libretro.vice_x64-3.9.0.64.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64+osx-x86_64/game.libretro.vice_x64-3.9.0.64.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+osx-arm64/game.libretro.vice_x64-3.9.0.64.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64+osx-arm64/game.libretro.vice_x64-3.9.0.64.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+android-aarch64/game.libretro.vice_x64-3.9.0.64.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64+android-aarch64/game.libretro.vice_x64-3.9.0.64.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64+android-armv7/game.libretro.vice_x64-3.9.0.64.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64+android-armv7/game.libretro.vice_x64-3.9.0.64.zip"
       }
     ],
     "categories": [
@@ -16901,9 +16905,10 @@
     ],
     "summary": "Commodore - C64 (VICE x64, fast)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1405KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1894KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_x64/resources/icon.png",
     "snippet": "Commodore - C64 (VICE x64, fast)"
   },
@@ -16912,7 +16917,7 @@
     "addonid": "game.libretro.vice_x64dtv",
     "name": "Commodore - C64DTV (VICE x64dtv)",
     "slug": "game.libretro.vice_x64dtv",
-    "version": "3.9.0.27",
+    "version": "3.9.0.28",
     "authors": [
       {
         "name": "VICE Team",
@@ -16922,6 +16927,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+osx-x86_64/game.libretro.vice_x64dtv-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64dtv+osx-x86_64/game.libretro.vice_x64dtv-3.9.0.28.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+osx-arm64/game.libretro.vice_x64dtv-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64dtv+osx-arm64/game.libretro.vice_x64dtv-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+android-aarch64/game.libretro.vice_x64dtv-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64dtv+android-aarch64/game.libretro.vice_x64dtv-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+android-armv7/game.libretro.vice_x64dtv-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64dtv+android-armv7/game.libretro.vice_x64dtv-3.9.0.28.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+windows-x86_64/game.libretro.vice_x64dtv-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64dtv+windows-x86_64/game.libretro.vice_x64dtv-3.9.0.27.zip"
@@ -16930,26 +16955,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+windows-i686/game.libretro.vice_x64dtv-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64dtv+windows-i686/game.libretro.vice_x64dtv-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+osx-x86_64/game.libretro.vice_x64dtv-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64dtv+osx-x86_64/game.libretro.vice_x64dtv-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+android-armv7/game.libretro.vice_x64dtv-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64dtv+android-armv7/game.libretro.vice_x64dtv-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+osx-arm64/game.libretro.vice_x64dtv-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64dtv+osx-arm64/game.libretro.vice_x64dtv-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64dtv+android-aarch64/game.libretro.vice_x64dtv-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64dtv+android-aarch64/game.libretro.vice_x64dtv-3.9.0.27.zip"
       }
     ],
     "categories": [
@@ -16971,9 +16976,10 @@
     ],
     "summary": "Commodore - C64DTV (VICE x64dtv)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1173KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1324KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_x64dtv/resources/icon.png",
     "snippet": "Commodore - C64DTV (VICE x64dtv)"
   },
@@ -16982,7 +16988,7 @@
     "addonid": "game.libretro.vice_x64sc",
     "name": "Commodore - C64 (VICE x64sc, accurate)",
     "slug": "game.libretro.vice_x64sc",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -16992,6 +16998,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+osx-x86_64/game.libretro.vice_x64sc-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64sc+osx-x86_64/game.libretro.vice_x64sc-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+osx-arm64/game.libretro.vice_x64sc-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64sc+osx-arm64/game.libretro.vice_x64sc-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+android-aarch64/game.libretro.vice_x64sc-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64sc+android-aarch64/game.libretro.vice_x64sc-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+android-armv7/game.libretro.vice_x64sc-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_x64sc+android-armv7/game.libretro.vice_x64sc-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+windows-x86_64/game.libretro.vice_x64sc-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64sc+windows-x86_64/game.libretro.vice_x64sc-3.9.0.26.zip"
@@ -17000,26 +17026,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+windows-i686/game.libretro.vice_x64sc-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_x64sc+windows-i686/game.libretro.vice_x64sc-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+osx-x86_64/game.libretro.vice_x64sc-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64sc+osx-x86_64/game.libretro.vice_x64sc-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+android-aarch64/game.libretro.vice_x64sc-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64sc+android-aarch64/game.libretro.vice_x64sc-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+android-armv7/game.libretro.vice_x64sc-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64sc+android-armv7/game.libretro.vice_x64sc-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_x64sc+osx-arm64/game.libretro.vice_x64sc-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_x64sc+osx-arm64/game.libretro.vice_x64sc-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -17041,9 +17047,10 @@
     ],
     "summary": "Commodore - C64 (VICE x64sc, accurate)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1359KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1877KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_x64sc/resources/icon.png",
     "snippet": "Commodore - C64 (VICE x64sc, accurate)"
   },
@@ -17052,7 +17059,7 @@
     "addonid": "game.libretro.vice_xcbm2",
     "name": "Commodore - CBM-II 6x0/7x0 (VICE xcbm2)",
     "slug": "game.libretro.vice_xcbm2",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -17062,6 +17069,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+osx-x86_64/game.libretro.vice_xcbm2-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm2+osx-x86_64/game.libretro.vice_xcbm2-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+osx-arm64/game.libretro.vice_xcbm2-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm2+osx-arm64/game.libretro.vice_xcbm2-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+android-armv7/game.libretro.vice_xcbm2-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm2+android-armv7/game.libretro.vice_xcbm2-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+android-aarch64/game.libretro.vice_xcbm2-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm2+android-aarch64/game.libretro.vice_xcbm2-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+windows-x86_64/game.libretro.vice_xcbm2-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xcbm2+windows-x86_64/game.libretro.vice_xcbm2-3.9.0.26.zip"
@@ -17070,26 +17097,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+windows-i686/game.libretro.vice_xcbm2-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xcbm2+windows-i686/game.libretro.vice_xcbm2-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+osx-arm64/game.libretro.vice_xcbm2-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm2+osx-arm64/game.libretro.vice_xcbm2-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+osx-x86_64/game.libretro.vice_xcbm2-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm2+osx-x86_64/game.libretro.vice_xcbm2-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+android-aarch64/game.libretro.vice_xcbm2-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm2+android-aarch64/game.libretro.vice_xcbm2-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm2+android-armv7/game.libretro.vice_xcbm2-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm2+android-armv7/game.libretro.vice_xcbm2-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -17111,9 +17118,10 @@
     ],
     "summary": "Commodore - CBM-II 6x0/7x0 (VICE xcbm2)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1160KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1575KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xcbm2/resources/icon.png",
     "snippet": "Commodore - CBM-II 6x0/7x0 (VICE xcbm2)"
   },
@@ -17122,7 +17130,7 @@
     "addonid": "game.libretro.vice_xcbm5x0",
     "name": "Commodore - CBM-II 5x0 (VICE xcbm5x0)",
     "slug": "game.libretro.vice_xcbm5x0",
-    "version": "3.9.0.27",
+    "version": "3.9.0.28",
     "authors": [
       {
         "name": "VICE Team",
@@ -17132,6 +17140,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+osx-arm64/game.libretro.vice_xcbm5x0-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+osx-arm64/game.libretro.vice_xcbm5x0-3.9.0.28.zip"
+      },
+      {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+osx-x86_64/game.libretro.vice_xcbm5x0-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+osx-x86_64/game.libretro.vice_xcbm5x0-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+android-aarch64/game.libretro.vice_xcbm5x0-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+android-aarch64/game.libretro.vice_xcbm5x0-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+android-armv7/game.libretro.vice_xcbm5x0-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+android-armv7/game.libretro.vice_xcbm5x0-3.9.0.28.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+windows-x86_64/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+windows-x86_64/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
@@ -17140,26 +17168,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+windows-i686/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+windows-i686/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+osx-x86_64/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+osx-x86_64/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+osx-arm64/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+osx-arm64/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+android-armv7/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+android-armv7/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xcbm5x0+android-aarch64/game.libretro.vice_xcbm5x0-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xcbm5x0+android-aarch64/game.libretro.vice_xcbm5x0-3.9.0.27.zip"
       }
     ],
     "categories": [
@@ -17181,9 +17189,10 @@
     ],
     "summary": "Commodore - CBM-II 5x0 (VICE xcbm5x0)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1350KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1636KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xcbm5x0/resources/icon.png",
     "snippet": "Commodore - CBM-II 5x0 (VICE xcbm5x0)"
   },
@@ -17192,7 +17201,7 @@
     "addonid": "game.libretro.vice_xpet",
     "name": "Commodore - PET (VICE xpet)",
     "slug": "game.libretro.vice_xpet",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -17202,6 +17211,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+osx-arm64/game.libretro.vice_xpet-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xpet+osx-arm64/game.libretro.vice_xpet-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+osx-x86_64/game.libretro.vice_xpet-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xpet+osx-x86_64/game.libretro.vice_xpet-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+android-aarch64/game.libretro.vice_xpet-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xpet+android-aarch64/game.libretro.vice_xpet-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+android-armv7/game.libretro.vice_xpet-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xpet+android-armv7/game.libretro.vice_xpet-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+windows-x86_64/game.libretro.vice_xpet-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xpet+windows-x86_64/game.libretro.vice_xpet-3.9.0.26.zip"
@@ -17210,26 +17239,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+windows-i686/game.libretro.vice_xpet-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xpet+windows-i686/game.libretro.vice_xpet-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+osx-arm64/game.libretro.vice_xpet-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xpet+osx-arm64/game.libretro.vice_xpet-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+android-armv7/game.libretro.vice_xpet-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xpet+android-armv7/game.libretro.vice_xpet-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+osx-x86_64/game.libretro.vice_xpet-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xpet+osx-x86_64/game.libretro.vice_xpet-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xpet+android-aarch64/game.libretro.vice_xpet-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xpet+android-aarch64/game.libretro.vice_xpet-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -17251,9 +17260,10 @@
     ],
     "summary": "Commodore - PET (VICE xpet)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1338KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1627KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xpet/resources/icon.png",
     "snippet": "Commodore - PET (VICE xpet)"
   },
@@ -17262,7 +17272,7 @@
     "addonid": "game.libretro.vice_xplus4",
     "name": "Commodore - PLUS/4 (VICE xplus4)",
     "slug": "game.libretro.vice_xplus4",
-    "version": "3.9.0.27",
+    "version": "3.9.0.28",
     "authors": [
       {
         "name": "VICE Team",
@@ -17272,6 +17282,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+osx-x86_64/game.libretro.vice_xplus4-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xplus4+osx-x86_64/game.libretro.vice_xplus4-3.9.0.28.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+osx-arm64/game.libretro.vice_xplus4-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xplus4+osx-arm64/game.libretro.vice_xplus4-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+android-aarch64/game.libretro.vice_xplus4-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xplus4+android-aarch64/game.libretro.vice_xplus4-3.9.0.28.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+android-armv7/game.libretro.vice_xplus4-3.9.0.28.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xplus4+android-armv7/game.libretro.vice_xplus4-3.9.0.28.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+windows-x86_64/game.libretro.vice_xplus4-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_xplus4+windows-x86_64/game.libretro.vice_xplus4-3.9.0.27.zip"
@@ -17280,26 +17310,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+windows-i686/game.libretro.vice_xplus4-3.9.0.27.zip",
         "statspath": "/addons/omega/game.libretro.vice_xplus4+windows-i686/game.libretro.vice_xplus4-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+osx-arm64/game.libretro.vice_xplus4-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xplus4+osx-arm64/game.libretro.vice_xplus4-3.9.0.27.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+osx-x86_64/game.libretro.vice_xplus4-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xplus4+osx-x86_64/game.libretro.vice_xplus4-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+android-aarch64/game.libretro.vice_xplus4-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xplus4+android-aarch64/game.libretro.vice_xplus4-3.9.0.27.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xplus4+android-armv7/game.libretro.vice_xplus4-3.9.0.27.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xplus4+android-armv7/game.libretro.vice_xplus4-3.9.0.27.zip"
       }
     ],
     "categories": [
@@ -17321,9 +17331,10 @@
     ],
     "summary": "Commodore - PLUS/4 (VICE xplus4)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1252KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1665KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xplus4/resources/icon.png",
     "snippet": "Commodore - PLUS/4 (VICE xplus4)"
   },
@@ -17332,7 +17343,7 @@
     "addonid": "game.libretro.vice_xscpu64",
     "name": "Commodore - C64 SuperCPU (VICE xscpu64)",
     "slug": "game.libretro.vice_xscpu64",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -17342,6 +17353,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+osx-x86_64/game.libretro.vice_xscpu64-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xscpu64+osx-x86_64/game.libretro.vice_xscpu64-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+android-armv7/game.libretro.vice_xscpu64-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xscpu64+android-armv7/game.libretro.vice_xscpu64-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+osx-arm64/game.libretro.vice_xscpu64-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xscpu64+osx-arm64/game.libretro.vice_xscpu64-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+android-aarch64/game.libretro.vice_xscpu64-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xscpu64+android-aarch64/game.libretro.vice_xscpu64-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+windows-x86_64/game.libretro.vice_xscpu64-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xscpu64+windows-x86_64/game.libretro.vice_xscpu64-3.9.0.26.zip"
@@ -17350,26 +17381,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+windows-i686/game.libretro.vice_xscpu64-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xscpu64+windows-i686/game.libretro.vice_xscpu64-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+osx-x86_64/game.libretro.vice_xscpu64-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xscpu64+osx-x86_64/game.libretro.vice_xscpu64-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+android-aarch64/game.libretro.vice_xscpu64-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xscpu64+android-aarch64/game.libretro.vice_xscpu64-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+android-armv7/game.libretro.vice_xscpu64-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xscpu64+android-armv7/game.libretro.vice_xscpu64-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xscpu64+osx-arm64/game.libretro.vice_xscpu64-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xscpu64+osx-arm64/game.libretro.vice_xscpu64-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -17391,9 +17402,10 @@
     ],
     "summary": "Commodore - C64 SuperCPU (VICE xscpu64)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1360KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1923KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xscpu64/resources/icon.png",
     "snippet": "Commodore - C64 SuperCPU (VICE xscpu64)"
   },
@@ -17402,7 +17414,7 @@
     "addonid": "game.libretro.vice_xvic",
     "name": "Commodore - VIC-20 (VICE xvic)",
     "slug": "game.libretro.vice_xvic",
-    "version": "3.9.0.26",
+    "version": "3.9.0.27",
     "authors": [
       {
         "name": "VICE Team",
@@ -17412,6 +17424,26 @@
     ],
     "platforms": [
       {
+        "platform": "osx-x86_64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+osx-x86_64/game.libretro.vice_xvic-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xvic+osx-x86_64/game.libretro.vice_xvic-3.9.0.27.zip"
+      },
+      {
+        "platform": "osx-arm64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+osx-arm64/game.libretro.vice_xvic-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xvic+osx-arm64/game.libretro.vice_xvic-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-aarch64",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+android-aarch64/game.libretro.vice_xvic-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xvic+android-aarch64/game.libretro.vice_xvic-3.9.0.27.zip"
+      },
+      {
+        "platform": "android-armv7",
+        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+android-armv7/game.libretro.vice_xvic-3.9.0.27.zip",
+        "statspath": "/addons/omega/game.libretro.vice_xvic+android-armv7/game.libretro.vice_xvic-3.9.0.27.zip"
+      },
+      {
         "platform": "windows-x86_64",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+windows-x86_64/game.libretro.vice_xvic-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xvic+windows-x86_64/game.libretro.vice_xvic-3.9.0.26.zip"
@@ -17420,26 +17452,6 @@
         "platform": "windows-i686",
         "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+windows-i686/game.libretro.vice_xvic-3.9.0.26.zip",
         "statspath": "/addons/omega/game.libretro.vice_xvic+windows-i686/game.libretro.vice_xvic-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-x86_64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+osx-x86_64/game.libretro.vice_xvic-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xvic+osx-x86_64/game.libretro.vice_xvic-3.9.0.26.zip"
-      },
-      {
-        "platform": "osx-arm64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+osx-arm64/game.libretro.vice_xvic-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xvic+osx-arm64/game.libretro.vice_xvic-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-aarch64",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+android-aarch64/game.libretro.vice_xvic-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xvic+android-aarch64/game.libretro.vice_xvic-3.9.0.26.zip"
-      },
-      {
-        "platform": "android-armv7",
-        "path": "http://ftp.halifax.rwth-aachen.de/xbmc/addons/omega/game.libretro.vice_xvic+android-armv7/game.libretro.vice_xvic-3.9.0.26.zip",
-        "statspath": "/addons/omega/game.libretro.vice_xvic+android-armv7/game.libretro.vice_xvic-3.9.0.26.zip"
       }
     ],
     "categories": [
@@ -17461,9 +17473,10 @@
     ],
     "summary": "Commodore - VIC-20 (VICE xvic)",
     "description": "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510).",
-    "size": "1205KB",
-    "lastupdate": "2025-07-01T03:41:04.630Z",
+    "size": "1633KB",
+    "lastupdate": "2025-07-25T03:40:04.538Z",
     "downloads": 0,
+    "prevyeardl": 0,
     "icon": "/images/addons/omega/game.libretro.vice_xvic/resources/icon.png",
     "snippet": "Commodore - VIC-20 (VICE xvic)"
   },
